@@ -1,0 +1,601 @@
+Ticket_ID,Created_Date,Created_Hour,Country,Day_Type,Priority,Source,Topic,Product_Group,Agent_Group,Agent,Status,First_Response_Min,Resolution_Hours,CSAT
+TKT-6001,2025-01-01,0,Netherlands,Workday,Low,Email,Product setup,Ready-to-use software,Tier 1,A. Khan,Closed,63,23,2.7
+TKT-6002,2025-02-06,7,France,Workday,Medium,Phone,Feature request,Custom development,Specialists,H. Martin,Closed,21,14,3.4
+TKT-6003,2025-03-11,14,Italy,Workday,High,Chat,Bug report,Training services,Tier 2,F. Rossi,Closed,34,25,4.1
+TKT-6004,2025-04-16,21,Netherlands,Workday,Critical,Portal,Pricing & licensing,Integrations,Tier 1,D. Garcia,Closed,47,8,4.8
+TKT-6005,2025-05-21,4,France,Workday,Low,Email,Purchasing & invoicing,Other,Specialists,B. Smith,Closed,10,19,3.2
+TKT-6006,2025-06-26,11,Italy,Workday,Medium,Phone,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Closed,23,50,3.9
+TKT-6007,2025-07-04,18,Netherlands,Workday,High,Chat,Feature request,Custom development,Tier 1,G. de Vries,Open,36,13,
+TKT-6008,2025-08-09,1,France,Weekend,Critical,Portal,Bug report,Training services,Specialists,E. Müller,Open,49,24,
+TKT-6009,2025-09-14,8,Belgium,Weekend,Low,Email,Pricing & licensing,Integrations,Tier 2,C. Chen,Closed,67,7,3.7
+TKT-6010,2025-10-19,15,Netherlands,Weekend,Medium,Phone,Purchasing & invoicing,Other,Tier 1,A. Khan,Closed,25,18,4.4
+TKT-6011,2025-11-24,22,United Kingdom,Workday,High,Chat,Product setup,Ready-to-use software,Specialists,H. Martin,Closed,38,49,2.8
+TKT-6012,2025-12-02,5,Switzerland,Workday,Critical,Portal,Feature request,Custom development,Tier 2,F. Rossi,Closed,51,12,3.5
+TKT-6013,2025-01-07,12,Germany,Workday,Low,Email,Bug report,Training services,Tier 1,D. Garcia,Closed,14,23,4.2
+TKT-6014,2025-02-12,19,United Kingdom,Workday,Medium,Phone,Pricing & licensing,Integrations,Specialists,B. Smith,Closed,27,6,4.9
+TKT-6015,2025-03-17,2,Austria,Workday,High,Chat,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Open,40,17,
+TKT-6016,2025-04-22,9,Germany,Workday,Critical,Portal,Product setup,Ready-to-use software,Tier 1,G. de Vries,Open,53,48,
+TKT-6017,2025-05-27,16,Spain,Workday,Low,Email,Feature request,Custom development,Specialists,E. Müller,Closed,71,11,4.7
+TKT-6018,2025-06-05,23,Poland,Workday,High,Phone,Bug report,Training services,Tier 2,C. Chen,Closed,29,22,3.1
+TKT-6019,2025-07-10,6,Germany,Workday,Critical,Chat,Pricing & licensing,Integrations,Tier 1,A. Khan,Closed,42,5,3.8
+TKT-6020,2025-08-15,13,Spain,Workday,Low,Portal,Purchasing & invoicing,Other,Specialists,H. Martin,Closed,55,16,4.5
+TKT-6021,2025-09-20,20,Netherlands,Weekend,Medium,Email,Product setup,Ready-to-use software,Tier 2,F. Rossi,Closed,18,47,2.9
+TKT-6022,2025-10-25,3,France,Weekend,High,Phone,Feature request,Custom development,Tier 1,D. Garcia,Closed,31,10,3.6
+TKT-6023,2025-11-03,10,Italy,Workday,Critical,Chat,Bug report,Training services,Specialists,B. Smith,Open,44,21,
+TKT-6024,2025-12-08,17,Netherlands,Workday,Low,Portal,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Open,57,4,
+TKT-6025,2025-01-13,0,France,Workday,Medium,Email,Purchasing & invoicing,Other,Tier 1,G. de Vries,Closed,75,15,3.4
+TKT-6026,2025-02-18,7,Italy,Workday,High,Phone,Product setup,Ready-to-use software,Specialists,E. Müller,Closed,33,46,4.1
+TKT-6027,2025-03-23,14,Netherlands,Weekend,Critical,Chat,Feature request,Custom development,Tier 2,C. Chen,Closed,46,9,4.8
+TKT-6028,2025-04-01,21,France,Workday,Low,Portal,Bug report,Training services,Tier 1,A. Khan,Closed,9,20,3.2
+TKT-6029,2025-05-06,4,Belgium,Workday,Medium,Email,Pricing & licensing,Integrations,Specialists,H. Martin,Closed,22,3,3.9
+TKT-6030,2025-06-11,11,Netherlands,Workday,High,Phone,Purchasing & invoicing,Other,Tier 2,F. Rossi,Closed,35,14,4.6
+TKT-6031,2025-07-16,18,United Kingdom,Workday,Critical,Chat,Product setup,Ready-to-use software,Tier 1,D. Garcia,Open,48,45,
+TKT-6032,2025-08-21,1,Switzerland,Workday,Low,Portal,Feature request,Custom development,Specialists,B. Smith,Closed,11,8,3.7
+TKT-6033,2025-09-26,8,Germany,Workday,Medium,Email,Bug report,Training services,Tier 2,I. Kowalski,Closed,79,19,4.4
+TKT-6034,2025-10-04,15,United Kingdom,Weekend,High,Phone,Pricing & licensing,Integrations,Tier 1,G. de Vries,Closed,37,30,2.8
+TKT-6035,2025-11-09,22,Austria,Weekend,Low,Chat,Purchasing & invoicing,Other,Specialists,E. Müller,Closed,50,13,3.5
+TKT-6036,2025-12-14,5,Germany,Weekend,Medium,Portal,Product setup,Ready-to-use software,Tier 2,C. Chen,Closed,13,44,4.2
+TKT-6037,2025-01-19,12,Spain,Weekend,High,Email,Feature request,Custom development,Tier 1,A. Khan,Closed,26,7,4.9
+TKT-6038,2025-02-24,19,Poland,Workday,Critical,Phone,Bug report,Training services,Specialists,H. Martin,Open,39,18,
+TKT-6039,2025-03-02,2,Germany,Weekend,Low,Chat,Pricing & licensing,Integrations,Tier 2,F. Rossi,Open,52,29,
+TKT-6040,2025-04-07,9,Spain,Workday,Medium,Portal,Purchasing & invoicing,Other,Tier 1,D. Garcia,Closed,15,12,4.7
+TKT-6041,2025-05-12,16,Netherlands,Workday,High,Email,Product setup,Ready-to-use software,Specialists,B. Smith,Closed,83,43,3.1
+TKT-6042,2025-06-17,23,France,Workday,Critical,Phone,Feature request,Custom development,Tier 2,I. Kowalski,Closed,41,6,3.8
+TKT-6043,2025-07-22,6,Italy,Workday,Low,Chat,Bug report,Training services,Tier 1,G. de Vries,Closed,54,17,4.5
+TKT-6044,2025-08-27,13,Netherlands,Workday,Medium,Portal,Pricing & licensing,Integrations,Specialists,E. Müller,Closed,17,28,2.9
+TKT-6045,2025-09-05,20,France,Workday,High,Email,Purchasing & invoicing,Other,Tier 2,C. Chen,Closed,30,11,3.6
+TKT-6046,2025-10-10,3,Italy,Workday,Critical,Phone,Product setup,Ready-to-use software,Tier 1,A. Khan,Open,43,42,
+TKT-6047,2025-11-15,10,Netherlands,Weekend,Low,Chat,Feature request,Custom development,Specialists,H. Martin,Open,56,5,
+TKT-6048,2025-12-20,17,France,Weekend,Medium,Portal,Bug report,Training services,Tier 2,F. Rossi,Closed,19,16,3.4
+TKT-6049,2025-01-25,0,Belgium,Weekend,High,Email,Pricing & licensing,Integrations,Tier 1,D. Garcia,Closed,87,27,4.1
+TKT-6050,2025-02-03,7,Netherlands,Workday,Critical,Phone,Purchasing & invoicing,Other,Specialists,B. Smith,Closed,45,10,4.8
+TKT-6051,2025-03-08,14,United Kingdom,Weekend,Low,Chat,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Closed,8,41,3.2
+TKT-6052,2025-04-13,21,Switzerland,Weekend,High,Portal,Feature request,Custom development,Tier 1,G. de Vries,Closed,21,4,3.9
+TKT-6053,2025-05-18,4,Germany,Weekend,Critical,Email,Bug report,Training services,Specialists,E. Müller,Closed,34,15,4.6
+TKT-6054,2025-06-23,11,United Kingdom,Workday,Low,Phone,Pricing & licensing,Integrations,Tier 2,C. Chen,Open,47,26,
+TKT-6055,2025-07-01,18,Austria,Workday,Medium,Chat,Purchasing & invoicing,Other,Tier 1,A. Khan,Closed,10,9,3.7
+TKT-6056,2025-08-06,1,Germany,Workday,High,Portal,Product setup,Ready-to-use software,Specialists,H. Martin,Closed,23,40,4.4
+TKT-6057,2025-09-11,8,Spain,Workday,Critical,Email,Feature request,Custom development,Tier 2,F. Rossi,Closed,91,3,2.8
+TKT-6058,2025-10-16,15,Poland,Workday,Low,Phone,Bug report,Training services,Tier 1,D. Garcia,Closed,49,14,3.5
+TKT-6059,2025-11-21,22,Germany,Workday,Medium,Chat,Pricing & licensing,Integrations,Specialists,B. Smith,Closed,12,25,4.2
+TKT-6060,2025-12-26,5,Spain,Workday,High,Portal,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Closed,25,8,4.9
+TKT-6061,2025-01-04,12,Netherlands,Weekend,Critical,Email,Product setup,Ready-to-use software,Tier 1,G. de Vries,Open,38,39,
+TKT-6062,2025-02-09,19,France,Weekend,Low,Phone,Feature request,Custom development,Specialists,E. Müller,Open,51,30,
+TKT-6063,2025-03-14,2,Italy,Workday,Medium,Chat,Bug report,Training services,Tier 2,C. Chen,Closed,14,13,4.7
+TKT-6064,2025-04-19,9,Netherlands,Weekend,High,Portal,Pricing & licensing,Integrations,Tier 1,A. Khan,Closed,27,24,3.1
+TKT-6065,2025-05-24,16,France,Weekend,Critical,Email,Purchasing & invoicing,Other,Specialists,H. Martin,Closed,95,7,3.8
+TKT-6066,2025-06-02,23,Italy,Workday,Low,Phone,Product setup,Ready-to-use software,Tier 2,F. Rossi,Closed,53,38,4.5
+TKT-6067,2025-07-07,6,Netherlands,Workday,Medium,Chat,Feature request,Custom development,Tier 1,D. Garcia,Closed,16,29,2.9
+TKT-6068,2025-08-12,13,France,Workday,High,Portal,Bug report,Training services,Specialists,B. Smith,Closed,29,12,3.6
+TKT-6069,2025-09-17,20,Belgium,Workday,Low,Email,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Open,42,23,
+TKT-6070,2025-10-22,3,Netherlands,Workday,Medium,Phone,Purchasing & invoicing,Other,Tier 1,G. de Vries,Open,55,6,
+TKT-6071,2025-11-27,10,United Kingdom,Workday,High,Chat,Product setup,Ready-to-use software,Specialists,E. Müller,Closed,18,37,3.4
+TKT-6072,2025-12-05,17,Switzerland,Workday,Critical,Portal,Feature request,Custom development,Tier 2,C. Chen,Closed,31,28,4.1
+TKT-6073,2025-01-10,0,Germany,Workday,Low,Email,Bug report,Training services,Tier 1,A. Khan,Closed,99,11,4.8
+TKT-6074,2025-02-15,7,United Kingdom,Weekend,Medium,Phone,Pricing & licensing,Integrations,Specialists,H. Martin,Closed,57,22,3.2
+TKT-6075,2025-03-20,14,Austria,Workday,High,Chat,Purchasing & invoicing,Other,Tier 2,F. Rossi,Closed,20,5,3.9
+TKT-6076,2025-04-25,21,Germany,Workday,Critical,Portal,Product setup,Ready-to-use software,Tier 1,D. Garcia,Closed,33,36,4.6
+TKT-6077,2025-05-03,4,Spain,Weekend,Low,Email,Feature request,Custom development,Specialists,B. Smith,Open,46,27,
+TKT-6078,2025-06-08,11,Poland,Weekend,Medium,Phone,Bug report,Training services,Tier 2,I. Kowalski,Closed,9,10,3.7
+TKT-6079,2025-07-13,18,Germany,Weekend,High,Chat,Pricing & licensing,Integrations,Tier 1,G. de Vries,Closed,22,21,4.4
+TKT-6080,2025-08-18,1,Spain,Workday,Critical,Portal,Purchasing & invoicing,Other,Specialists,E. Müller,Closed,35,4,2.8
+TKT-6081,2025-09-23,8,Netherlands,Workday,Low,Email,Product setup,Ready-to-use software,Tier 2,C. Chen,Closed,103,35,3.5
+TKT-6082,2025-10-01,15,France,Workday,Medium,Phone,Feature request,Custom development,Tier 1,A. Khan,Closed,11,26,4.2
+TKT-6083,2025-11-06,22,Italy,Workday,High,Chat,Bug report,Training services,Specialists,H. Martin,Closed,24,9,4.9
+TKT-6084,2025-12-11,5,Netherlands,Workday,Critical,Portal,Pricing & licensing,Integrations,Tier 2,F. Rossi,Open,37,20,
+TKT-6085,2025-01-16,12,France,Workday,Low,Email,Purchasing & invoicing,Other,Tier 1,D. Garcia,Open,50,3,
+TKT-6086,2025-02-21,19,Italy,Workday,High,Phone,Product setup,Ready-to-use software,Specialists,B. Smith,Closed,13,34,4.7
+TKT-6087,2025-03-26,2,Netherlands,Workday,Critical,Chat,Feature request,Custom development,Tier 2,I. Kowalski,Closed,26,25,3.1
+TKT-6088,2025-04-04,9,France,Workday,Low,Portal,Bug report,Training services,Tier 1,G. de Vries,Closed,39,8,3.8
+TKT-6089,2025-05-09,16,Belgium,Workday,Medium,Email,Pricing & licensing,Integrations,Specialists,E. Müller,Closed,107,19,4.5
+TKT-6090,2025-06-14,23,Netherlands,Weekend,High,Phone,Purchasing & invoicing,Other,Tier 2,C. Chen,Closed,15,30,2.9
+TKT-6091,2025-07-19,6,United Kingdom,Weekend,Critical,Chat,Product setup,Ready-to-use software,Tier 1,A. Khan,Closed,28,33,3.6
+TKT-6092,2025-08-24,13,Switzerland,Weekend,Low,Portal,Feature request,Custom development,Specialists,H. Martin,Open,41,24,
+TKT-6093,2025-09-02,20,Germany,Workday,Medium,Email,Bug report,Training services,Tier 2,F. Rossi,Open,54,7,
+TKT-6094,2025-10-07,3,United Kingdom,Workday,High,Phone,Pricing & licensing,Integrations,Tier 1,D. Garcia,Closed,17,18,3.4
+TKT-6095,2025-11-12,10,Austria,Workday,Critical,Chat,Purchasing & invoicing,Other,Specialists,B. Smith,Closed,30,29,4.1
+TKT-6096,2025-12-17,17,Germany,Workday,Low,Portal,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Closed,43,32,4.8
+TKT-6097,2025-01-22,0,Spain,Workday,Medium,Email,Feature request,Custom development,Tier 1,G. de Vries,Closed,111,23,3.2
+TKT-6098,2025-02-27,7,Poland,Workday,High,Phone,Bug report,Training services,Specialists,E. Müller,Closed,19,6,3.9
+TKT-6099,2025-03-05,14,Germany,Workday,Critical,Chat,Pricing & licensing,Integrations,Tier 2,C. Chen,Closed,32,17,4.6
+TKT-6100,2025-04-10,21,Spain,Workday,Low,Portal,Purchasing & invoicing,Other,Tier 1,A. Khan,Open,45,28,
+TKT-6101,2025-05-15,4,Netherlands,Workday,Medium,Email,Product setup,Ready-to-use software,Specialists,H. Martin,Closed,8,31,3.7
+TKT-6102,2025-06-20,11,France,Workday,High,Phone,Feature request,Custom development,Tier 2,F. Rossi,Closed,21,22,4.4
+TKT-6103,2025-07-25,18,Italy,Workday,Low,Chat,Bug report,Training services,Tier 1,D. Garcia,Closed,34,5,2.8
+TKT-6104,2025-08-03,1,Netherlands,Weekend,Medium,Portal,Pricing & licensing,Integrations,Specialists,B. Smith,Closed,47,16,3.5
+TKT-6105,2025-09-08,8,France,Workday,High,Email,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Closed,65,27,4.2
+TKT-6106,2025-10-13,15,Italy,Workday,Critical,Phone,Product setup,Ready-to-use software,Tier 1,G. de Vries,Closed,23,30,4.9
+TKT-6107,2025-11-18,22,Netherlands,Workday,Low,Chat,Feature request,Custom development,Specialists,E. Müller,Open,36,21,
+TKT-6108,2025-12-23,5,France,Workday,Medium,Portal,Bug report,Training services,Tier 2,C. Chen,Open,49,4,
+TKT-6109,2025-01-01,12,Belgium,Workday,High,Email,Pricing & licensing,Integrations,Tier 1,A. Khan,Closed,12,15,4.7
+TKT-6110,2025-02-06,19,Netherlands,Workday,Critical,Phone,Purchasing & invoicing,Other,Specialists,H. Martin,Closed,25,26,3.1
+TKT-6111,2025-03-11,2,United Kingdom,Workday,Low,Chat,Product setup,Ready-to-use software,Tier 2,F. Rossi,Closed,38,29,3.8
+TKT-6112,2025-04-16,9,Switzerland,Workday,Medium,Portal,Feature request,Custom development,Tier 1,D. Garcia,Closed,51,20,4.5
+TKT-6113,2025-05-21,16,Germany,Workday,High,Email,Bug report,Training services,Specialists,B. Smith,Closed,69,3,2.9
+TKT-6114,2025-06-26,23,United Kingdom,Workday,Critical,Phone,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Closed,27,14,3.6
+TKT-6115,2025-07-04,6,Austria,Workday,Low,Chat,Purchasing & invoicing,Other,Tier 1,G. de Vries,Open,40,25,
+TKT-6116,2025-08-09,13,Germany,Weekend,Medium,Portal,Product setup,Ready-to-use software,Specialists,E. Müller,Open,53,28,
+TKT-6117,2025-09-14,20,Spain,Weekend,High,Email,Feature request,Custom development,Tier 2,C. Chen,Closed,16,19,3.4
+TKT-6118,2025-10-19,3,Poland,Weekend,Critical,Phone,Bug report,Training services,Tier 1,A. Khan,Closed,29,30,4.1
+TKT-6119,2025-11-24,10,Germany,Workday,Low,Chat,Pricing & licensing,Integrations,Specialists,H. Martin,Closed,42,13,4.8
+TKT-6120,2025-12-02,17,Spain,Workday,High,Portal,Purchasing & invoicing,Other,Tier 2,F. Rossi,Closed,55,24,3.2
+TKT-6121,2025-01-07,0,Netherlands,Workday,Critical,Email,Product setup,Ready-to-use software,Tier 1,D. Garcia,Closed,73,27,3.9
+TKT-6122,2025-02-12,7,France,Workday,Low,Phone,Feature request,Custom development,Specialists,B. Smith,Closed,31,18,4.6
+TKT-6123,2025-03-17,14,Italy,Workday,Medium,Chat,Bug report,Training services,Tier 2,I. Kowalski,Open,44,29,
+TKT-6124,2025-04-22,21,Netherlands,Workday,High,Portal,Pricing & licensing,Integrations,Tier 1,G. de Vries,Open,57,12,
+TKT-6125,2025-05-27,4,France,Workday,Critical,Email,Purchasing & invoicing,Other,Specialists,E. Müller,Closed,20,23,4.4
+TKT-6126,2025-06-05,11,Italy,Workday,Low,Phone,Product setup,Ready-to-use software,Tier 2,C. Chen,Closed,33,26,2.8
+TKT-6127,2025-07-10,18,Netherlands,Workday,Medium,Chat,Feature request,Custom development,Tier 1,A. Khan,Closed,46,17,3.5
+TKT-6128,2025-08-15,1,France,Workday,High,Portal,Bug report,Training services,Specialists,H. Martin,Closed,9,28,4.2
+TKT-6129,2025-09-20,8,Belgium,Weekend,Critical,Email,Pricing & licensing,Integrations,Tier 2,F. Rossi,Closed,77,11,4.9
+TKT-6130,2025-10-25,15,Netherlands,Weekend,Low,Phone,Purchasing & invoicing,Other,Tier 1,D. Garcia,Closed,35,22,3.3
+TKT-6131,2025-11-03,22,United Kingdom,Workday,Medium,Chat,Product setup,Ready-to-use software,Specialists,B. Smith,Open,48,25,
+TKT-6132,2025-12-08,5,Switzerland,Workday,High,Portal,Feature request,Custom development,Tier 2,I. Kowalski,Closed,11,16,4.7
+TKT-6133,2025-01-13,12,Germany,Workday,Critical,Email,Bug report,Training services,Tier 1,G. de Vries,Closed,24,27,3.1
+TKT-6134,2025-02-18,19,United Kingdom,Workday,Low,Phone,Pricing & licensing,Integrations,Specialists,E. Müller,Closed,37,10,3.8
+TKT-6135,2025-03-23,2,Austria,Weekend,Medium,Chat,Purchasing & invoicing,Other,Tier 2,C. Chen,Closed,50,21,4.5
+TKT-6136,2025-04-01,9,Germany,Workday,High,Portal,Product setup,Ready-to-use software,Tier 1,A. Khan,Closed,13,24,2.9
+TKT-6137,2025-05-06,16,Spain,Workday,Low,Email,Feature request,Custom development,Specialists,H. Martin,Closed,81,15,3.6
+TKT-6138,2025-06-11,23,Poland,Workday,Medium,Phone,Bug report,Training services,Tier 2,F. Rossi,Open,39,26,
+TKT-6139,2025-07-16,6,Germany,Workday,High,Chat,Pricing & licensing,Integrations,Tier 1,D. Garcia,Open,52,9,
+TKT-6140,2025-08-21,13,Spain,Workday,Critical,Portal,Purchasing & invoicing,Other,Specialists,B. Smith,Closed,15,20,3.4
+TKT-6141,2025-09-26,20,Netherlands,Workday,Low,Email,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Closed,28,23,4.1
+TKT-6142,2025-10-04,3,France,Weekend,Medium,Phone,Feature request,Custom development,Tier 1,G. de Vries,Closed,41,14,4.8
+TKT-6143,2025-11-09,10,Italy,Weekend,High,Chat,Bug report,Training services,Specialists,E. Müller,Closed,54,25,3.2
+TKT-6144,2025-12-14,17,Netherlands,Weekend,Critical,Portal,Pricing & licensing,Integrations,Tier 2,C. Chen,Closed,17,8,3.9
+TKT-6145,2025-01-19,0,France,Weekend,Low,Email,Purchasing & invoicing,Other,Tier 1,A. Khan,Closed,85,19,4.6
+TKT-6146,2025-02-24,7,Italy,Workday,Medium,Phone,Product setup,Ready-to-use software,Specialists,H. Martin,Open,43,50,
+TKT-6147,2025-03-02,14,Netherlands,Weekend,High,Chat,Feature request,Custom development,Tier 2,F. Rossi,Open,56,13,
+TKT-6148,2025-04-07,21,France,Workday,Critical,Portal,Bug report,Training services,Tier 1,D. Garcia,Closed,19,24,4.4
+TKT-6149,2025-05-12,4,Belgium,Workday,Low,Email,Pricing & licensing,Integrations,Specialists,B. Smith,Closed,32,7,2.8
+TKT-6150,2025-06-17,11,Netherlands,Workday,Medium,Phone,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Closed,45,18,3.5
+TKT-6151,2025-07-22,18,United Kingdom,Workday,High,Chat,Product setup,Ready-to-use software,Tier 1,G. de Vries,Closed,8,49,4.2
+TKT-6152,2025-08-27,1,Switzerland,Workday,Critical,Portal,Feature request,Custom development,Specialists,E. Müller,Closed,21,12,4.9
+TKT-6153,2025-09-05,8,Germany,Workday,Low,Email,Bug report,Training services,Tier 2,C. Chen,Closed,89,23,3.3
+TKT-6154,2025-10-10,15,United Kingdom,Workday,High,Phone,Pricing & licensing,Integrations,Tier 1,A. Khan,Open,47,6,
+TKT-6155,2025-11-15,22,Austria,Weekend,Critical,Chat,Purchasing & invoicing,Other,Specialists,H. Martin,Closed,10,17,4.7
+TKT-6156,2025-12-20,5,Germany,Weekend,Low,Portal,Product setup,Ready-to-use software,Tier 2,F. Rossi,Closed,23,48,3.1
+TKT-6157,2025-01-25,12,Spain,Weekend,Medium,Email,Feature request,Custom development,Tier 1,D. Garcia,Closed,36,11,3.8
+TKT-6158,2025-02-03,19,Poland,Workday,High,Phone,Bug report,Training services,Specialists,B. Smith,Closed,49,22,4.5
+TKT-6159,2025-03-08,2,Germany,Weekend,Critical,Chat,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Closed,12,5,2.9
+TKT-6160,2025-04-13,9,Spain,Weekend,Low,Portal,Purchasing & invoicing,Other,Tier 1,G. de Vries,Closed,25,16,3.6
+TKT-6161,2025-05-18,16,Netherlands,Weekend,Medium,Email,Product setup,Ready-to-use software,Specialists,E. Müller,Open,93,47,
+TKT-6162,2025-06-23,23,France,Workday,High,Phone,Feature request,Custom development,Tier 2,C. Chen,Open,51,10,
+TKT-6163,2025-07-01,6,Italy,Workday,Critical,Chat,Bug report,Training services,Tier 1,A. Khan,Closed,14,21,3.4
+TKT-6164,2025-08-06,13,Netherlands,Workday,Low,Portal,Pricing & licensing,Integrations,Specialists,H. Martin,Closed,27,4,4.1
+TKT-6165,2025-09-11,20,France,Workday,Medium,Email,Purchasing & invoicing,Other,Tier 2,F. Rossi,Closed,40,15,4.8
+TKT-6166,2025-10-16,3,Italy,Workday,High,Phone,Product setup,Ready-to-use software,Tier 1,D. Garcia,Closed,53,46,3.2
+TKT-6167,2025-11-21,10,Netherlands,Workday,Critical,Chat,Feature request,Custom development,Specialists,B. Smith,Closed,16,9,3.9
+TKT-6168,2025-12-26,17,France,Workday,Low,Portal,Bug report,Training services,Tier 2,I. Kowalski,Closed,29,20,4.6
+TKT-6169,2025-01-04,0,Belgium,Weekend,Medium,Email,Pricing & licensing,Integrations,Tier 1,G. de Vries,Open,97,3,
+TKT-6170,2025-02-09,7,Netherlands,Weekend,High,Phone,Purchasing & invoicing,Other,Specialists,E. Müller,Open,55,14,
+TKT-6171,2025-03-14,14,United Kingdom,Workday,Low,Chat,Product setup,Ready-to-use software,Tier 2,C. Chen,Closed,18,45,4.4
+TKT-6172,2025-04-19,21,Switzerland,Weekend,Medium,Portal,Feature request,Custom development,Tier 1,A. Khan,Closed,31,8,2.8
+TKT-6173,2025-05-24,4,Germany,Weekend,High,Email,Bug report,Training services,Specialists,H. Martin,Closed,44,19,3.5
+TKT-6174,2025-06-02,11,United Kingdom,Workday,Critical,Phone,Pricing & licensing,Integrations,Tier 2,F. Rossi,Closed,57,30,4.2
+TKT-6175,2025-07-07,18,Austria,Workday,Low,Chat,Purchasing & invoicing,Other,Tier 1,D. Garcia,Closed,20,13,4.9
+TKT-6176,2025-08-12,1,Germany,Workday,Medium,Portal,Product setup,Ready-to-use software,Specialists,B. Smith,Closed,33,44,3.3
+TKT-6177,2025-09-17,8,Spain,Workday,High,Email,Feature request,Custom development,Tier 2,I. Kowalski,Open,101,7,
+TKT-6178,2025-10-22,15,Poland,Workday,Critical,Phone,Bug report,Training services,Tier 1,G. de Vries,Closed,9,18,4.7
+TKT-6179,2025-11-27,22,Germany,Workday,Low,Chat,Pricing & licensing,Integrations,Specialists,E. Müller,Closed,22,29,3.1
+TKT-6180,2025-12-05,5,Spain,Workday,Medium,Portal,Purchasing & invoicing,Other,Tier 2,C. Chen,Closed,35,12,3.8
+TKT-6181,2025-01-10,12,Netherlands,Workday,High,Email,Product setup,Ready-to-use software,Tier 1,A. Khan,Closed,48,43,4.5
+TKT-6182,2025-02-15,19,France,Weekend,Critical,Phone,Feature request,Custom development,Specialists,H. Martin,Closed,11,6,2.9
+TKT-6183,2025-03-20,2,Italy,Workday,Low,Chat,Bug report,Training services,Tier 2,F. Rossi,Closed,24,17,3.6
+TKT-6184,2025-04-25,9,Netherlands,Workday,Medium,Portal,Pricing & licensing,Integrations,Tier 1,D. Garcia,Open,37,28,
+TKT-6185,2025-05-03,16,France,Weekend,High,Email,Purchasing & invoicing,Other,Specialists,B. Smith,Open,105,11,
+TKT-6186,2025-06-08,23,Italy,Weekend,Critical,Phone,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Closed,13,42,3.4
+TKT-6187,2025-07-13,6,Netherlands,Weekend,Low,Chat,Feature request,Custom development,Tier 1,G. de Vries,Closed,26,5,4.1
+TKT-6188,2025-08-18,13,France,Workday,High,Portal,Bug report,Training services,Specialists,E. Müller,Closed,39,16,4.8
+TKT-6189,2025-09-23,20,Belgium,Workday,Critical,Email,Pricing & licensing,Integrations,Tier 2,C. Chen,Closed,52,27,3.2
+TKT-6190,2025-10-01,3,Netherlands,Workday,Low,Phone,Purchasing & invoicing,Other,Tier 1,A. Khan,Closed,15,10,3.9
+TKT-6191,2025-11-06,10,United Kingdom,Workday,Medium,Chat,Product setup,Ready-to-use software,Specialists,H. Martin,Closed,28,41,4.6
+TKT-6192,2025-12-11,17,Switzerland,Workday,High,Portal,Feature request,Custom development,Tier 2,F. Rossi,Open,41,4,
+TKT-6193,2025-01-16,0,Germany,Workday,Critical,Email,Bug report,Training services,Tier 1,D. Garcia,Open,109,15,
+TKT-6194,2025-02-21,7,United Kingdom,Workday,Low,Phone,Pricing & licensing,Integrations,Specialists,B. Smith,Closed,17,26,4.4
+TKT-6195,2025-03-26,14,Austria,Workday,Medium,Chat,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Closed,30,9,2.8
+TKT-6196,2025-04-04,21,Germany,Workday,High,Portal,Product setup,Ready-to-use software,Tier 1,G. de Vries,Closed,43,40,3.5
+TKT-6197,2025-05-09,4,Spain,Workday,Critical,Email,Feature request,Custom development,Specialists,E. Müller,Closed,56,3,4.2
+TKT-6198,2025-06-14,11,Poland,Weekend,Low,Phone,Bug report,Training services,Tier 2,C. Chen,Closed,19,14,4.9
+TKT-6199,2025-07-19,18,Germany,Weekend,Medium,Chat,Pricing & licensing,Integrations,Tier 1,A. Khan,Closed,32,25,3.3
+TKT-6200,2025-08-24,1,Spain,Weekend,High,Portal,Purchasing & invoicing,Other,Specialists,H. Martin,Open,45,8,
+TKT-6201,2025-09-02,8,Netherlands,Workday,Critical,Email,Product setup,Ready-to-use software,Tier 2,F. Rossi,Closed,63,39,4.7
+TKT-6202,2025-10-07,15,France,Workday,Low,Phone,Feature request,Custom development,Tier 1,D. Garcia,Closed,21,30,3.1
+TKT-6203,2025-11-12,22,Italy,Workday,Medium,Chat,Bug report,Training services,Specialists,B. Smith,Closed,34,13,3.8
+TKT-6204,2025-12-17,5,Netherlands,Workday,High,Portal,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Closed,47,24,4.5
+TKT-6205,2025-01-22,12,France,Workday,Low,Email,Purchasing & invoicing,Other,Tier 1,G. de Vries,Closed,10,7,2.9
+TKT-6206,2025-02-27,19,Italy,Workday,Medium,Phone,Product setup,Ready-to-use software,Specialists,E. Müller,Closed,23,38,3.6
+TKT-6207,2025-03-05,2,Netherlands,Workday,High,Chat,Feature request,Custom development,Tier 2,C. Chen,Open,36,29,
+TKT-6208,2025-04-10,9,France,Workday,Critical,Portal,Bug report,Training services,Tier 1,A. Khan,Open,49,12,
+TKT-6209,2025-05-15,16,Belgium,Workday,Low,Email,Pricing & licensing,Integrations,Specialists,H. Martin,Closed,67,23,3.4
+TKT-6210,2025-06-20,23,Netherlands,Workday,Medium,Phone,Purchasing & invoicing,Other,Tier 2,F. Rossi,Closed,25,6,4.1
+TKT-6211,2025-07-25,6,United Kingdom,Workday,High,Chat,Product setup,Ready-to-use software,Tier 1,D. Garcia,Closed,38,37,4.8
+TKT-6212,2025-08-03,13,Switzerland,Weekend,Critical,Portal,Feature request,Custom development,Specialists,B. Smith,Closed,51,28,3.2
+TKT-6213,2025-09-08,20,Germany,Workday,Low,Email,Bug report,Training services,Tier 2,I. Kowalski,Closed,14,11,3.9
+TKT-6214,2025-10-13,3,United Kingdom,Workday,Medium,Phone,Pricing & licensing,Integrations,Tier 1,G. de Vries,Closed,27,22,4.6
+TKT-6215,2025-11-18,10,Austria,Workday,High,Chat,Purchasing & invoicing,Other,Specialists,E. Müller,Open,40,5,
+TKT-6216,2025-12-23,17,Germany,Workday,Critical,Portal,Product setup,Ready-to-use software,Tier 2,C. Chen,Open,53,36,
+TKT-6217,2025-01-01,0,Spain,Workday,Low,Email,Feature request,Custom development,Tier 1,A. Khan,Closed,71,27,4.4
+TKT-6218,2025-02-06,7,Poland,Workday,Medium,Phone,Bug report,Training services,Specialists,H. Martin,Closed,29,10,2.8
+TKT-6219,2025-03-11,14,Germany,Workday,High,Chat,Pricing & licensing,Integrations,Tier 2,F. Rossi,Closed,42,21,3.5
+TKT-6220,2025-04-16,21,Spain,Workday,Critical,Portal,Purchasing & invoicing,Other,Tier 1,D. Garcia,Closed,55,4,4.2
+TKT-6221,2025-05-21,4,Netherlands,Workday,Low,Email,Product setup,Ready-to-use software,Specialists,B. Smith,Closed,18,35,4.9
+TKT-6222,2025-06-26,11,France,Workday,High,Phone,Feature request,Custom development,Tier 2,I. Kowalski,Closed,31,26,3.3
+TKT-6223,2025-07-04,18,Italy,Workday,Critical,Chat,Bug report,Training services,Tier 1,G. de Vries,Open,44,9,
+TKT-6224,2025-08-09,1,Netherlands,Weekend,Low,Portal,Pricing & licensing,Integrations,Specialists,E. Müller,Open,57,20,
+TKT-6225,2025-09-14,8,France,Weekend,Medium,Email,Purchasing & invoicing,Other,Tier 2,C. Chen,Closed,75,3,3.1
+TKT-6226,2025-10-19,15,Italy,Weekend,High,Phone,Product setup,Ready-to-use software,Tier 1,A. Khan,Closed,33,34,3.8
+TKT-6227,2025-11-24,22,Netherlands,Workday,Critical,Chat,Feature request,Custom development,Specialists,H. Martin,Closed,46,25,4.5
+TKT-6228,2025-12-02,5,France,Workday,Low,Portal,Bug report,Training services,Tier 2,F. Rossi,Closed,9,8,2.9
+TKT-6229,2025-01-07,12,Belgium,Workday,Medium,Email,Pricing & licensing,Integrations,Tier 1,D. Garcia,Closed,22,19,3.6
+TKT-6230,2025-02-12,19,Netherlands,Workday,High,Phone,Purchasing & invoicing,Other,Specialists,B. Smith,Closed,35,30,4.3
+TKT-6231,2025-03-17,2,United Kingdom,Workday,Critical,Chat,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Open,48,33,
+TKT-6232,2025-04-22,9,Switzerland,Workday,Low,Portal,Feature request,Custom development,Tier 1,G. de Vries,Closed,11,24,3.4
+TKT-6233,2025-05-27,16,Germany,Workday,Medium,Email,Bug report,Training services,Specialists,E. Müller,Closed,79,7,4.1
+TKT-6234,2025-06-05,23,United Kingdom,Workday,High,Phone,Pricing & licensing,Integrations,Tier 2,C. Chen,Closed,37,18,4.8
+TKT-6235,2025-07-10,6,Austria,Workday,Critical,Chat,Purchasing & invoicing,Other,Tier 1,A. Khan,Closed,50,29,3.2
+TKT-6236,2025-08-15,13,Germany,Workday,Low,Portal,Product setup,Ready-to-use software,Specialists,H. Martin,Closed,13,32,3.9
+TKT-6237,2025-09-20,20,Spain,Weekend,Medium,Email,Feature request,Custom development,Tier 2,F. Rossi,Closed,26,23,4.6
+TKT-6238,2025-10-25,3,Poland,Weekend,High,Phone,Bug report,Training services,Tier 1,D. Garcia,Open,39,6,
+TKT-6239,2025-11-03,10,Germany,Workday,Low,Chat,Pricing & licensing,Integrations,Specialists,B. Smith,Open,52,17,
+TKT-6240,2025-12-08,17,Spain,Workday,Medium,Portal,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Closed,15,28,4.4
+TKT-6241,2025-01-13,0,Netherlands,Workday,High,Email,Product setup,Ready-to-use software,Tier 1,G. de Vries,Closed,83,31,2.8
+TKT-6242,2025-02-18,7,France,Workday,Critical,Phone,Feature request,Custom development,Specialists,E. Müller,Closed,41,22,3.5
+TKT-6243,2025-03-23,14,Italy,Weekend,Low,Chat,Bug report,Training services,Tier 2,C. Chen,Closed,54,5,4.2
+TKT-6244,2025-04-01,21,Netherlands,Workday,Medium,Portal,Pricing & licensing,Integrations,Tier 1,A. Khan,Closed,17,16,4.9
+TKT-6245,2025-05-06,4,France,Workday,High,Email,Purchasing & invoicing,Other,Specialists,H. Martin,Closed,30,27,3.3
+TKT-6246,2025-06-11,11,Italy,Workday,Critical,Phone,Product setup,Ready-to-use software,Tier 2,F. Rossi,Open,43,30,
+TKT-6247,2025-07-16,18,Netherlands,Workday,Low,Chat,Feature request,Custom development,Tier 1,D. Garcia,Open,56,21,
+TKT-6248,2025-08-21,1,France,Workday,Medium,Portal,Bug report,Training services,Specialists,B. Smith,Closed,19,4,3.1
+TKT-6249,2025-09-26,8,Belgium,Workday,High,Email,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Closed,87,15,3.8
+TKT-6250,2025-10-04,15,Netherlands,Weekend,Critical,Phone,Purchasing & invoicing,Other,Tier 1,G. de Vries,Closed,45,26,4.5
+TKT-6251,2025-11-09,22,United Kingdom,Weekend,Low,Chat,Product setup,Ready-to-use software,Specialists,E. Müller,Closed,8,29,2.9
+TKT-6252,2025-12-14,5,Switzerland,Weekend,Medium,Portal,Feature request,Custom development,Tier 2,C. Chen,Closed,21,20,3.6
+TKT-6253,2025-01-19,12,Germany,Weekend,High,Email,Bug report,Training services,Tier 1,A. Khan,Closed,34,3,4.3
+TKT-6254,2025-02-24,19,United Kingdom,Workday,Critical,Phone,Pricing & licensing,Integrations,Specialists,H. Martin,Open,47,14,
+TKT-6255,2025-03-02,2,Austria,Weekend,Low,Chat,Purchasing & invoicing,Other,Tier 2,F. Rossi,Closed,10,25,3.4
+TKT-6256,2025-04-07,9,Germany,Workday,High,Portal,Product setup,Ready-to-use software,Tier 1,D. Garcia,Closed,23,28,4.1
+TKT-6257,2025-05-12,16,Spain,Workday,Critical,Email,Feature request,Custom development,Specialists,B. Smith,Closed,91,19,4.8
+TKT-6258,2025-06-17,23,Poland,Workday,Low,Phone,Bug report,Training services,Tier 2,I. Kowalski,Closed,49,30,3.2
+TKT-6259,2025-07-22,6,Germany,Workday,Medium,Chat,Pricing & licensing,Integrations,Tier 1,G. de Vries,Closed,12,13,3.9
+TKT-6260,2025-08-27,13,Spain,Workday,High,Portal,Purchasing & invoicing,Other,Specialists,E. Müller,Closed,25,24,4.6
+TKT-6261,2025-09-05,20,Netherlands,Workday,Critical,Email,Product setup,Ready-to-use software,Tier 2,C. Chen,Open,38,27,
+TKT-6262,2025-10-10,3,France,Workday,Low,Phone,Feature request,Custom development,Tier 1,A. Khan,Open,51,18,
+TKT-6263,2025-11-15,10,Italy,Weekend,Medium,Chat,Bug report,Training services,Specialists,H. Martin,Closed,14,29,4.4
+TKT-6264,2025-12-20,17,Netherlands,Weekend,High,Portal,Pricing & licensing,Integrations,Tier 2,F. Rossi,Closed,27,12,2.8
+TKT-6265,2025-01-25,0,France,Weekend,Critical,Email,Purchasing & invoicing,Other,Tier 1,D. Garcia,Closed,95,23,3.5
+TKT-6266,2025-02-03,7,Italy,Workday,Low,Phone,Product setup,Ready-to-use software,Specialists,B. Smith,Closed,53,26,4.2
+TKT-6267,2025-03-08,14,Netherlands,Weekend,Medium,Chat,Feature request,Custom development,Tier 2,I. Kowalski,Closed,16,17,4.9
+TKT-6268,2025-04-13,21,France,Weekend,High,Portal,Bug report,Training services,Tier 1,G. de Vries,Closed,29,28,3.3
+TKT-6269,2025-05-18,4,Belgium,Weekend,Critical,Email,Pricing & licensing,Integrations,Specialists,E. Müller,Open,42,11,
+TKT-6270,2025-06-23,11,Netherlands,Workday,Low,Phone,Purchasing & invoicing,Other,Tier 2,C. Chen,Open,55,22,
+TKT-6271,2025-07-01,18,United Kingdom,Workday,Medium,Chat,Product setup,Ready-to-use software,Tier 1,A. Khan,Closed,18,25,3.1
+TKT-6272,2025-08-06,1,Switzerland,Workday,High,Portal,Feature request,Custom development,Specialists,H. Martin,Closed,31,16,3.8
+TKT-6273,2025-09-11,8,Germany,Workday,Low,Email,Bug report,Training services,Tier 2,F. Rossi,Closed,99,27,4.5
+TKT-6274,2025-10-16,15,United Kingdom,Workday,Medium,Phone,Pricing & licensing,Integrations,Tier 1,D. Garcia,Closed,57,10,2.9
+TKT-6275,2025-11-21,22,Austria,Workday,High,Chat,Purchasing & invoicing,Other,Specialists,B. Smith,Closed,20,21,3.6
+TKT-6276,2025-12-26,5,Germany,Workday,Critical,Portal,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Closed,33,24,4.3
+TKT-6277,2025-01-04,12,Spain,Weekend,Low,Email,Feature request,Custom development,Tier 1,G. de Vries,Open,46,15,
+TKT-6278,2025-02-09,19,Poland,Weekend,Medium,Phone,Bug report,Training services,Specialists,E. Müller,Closed,9,26,3.4
+TKT-6279,2025-03-14,2,Germany,Workday,High,Chat,Pricing & licensing,Integrations,Tier 2,C. Chen,Closed,22,9,4.1
+TKT-6280,2025-04-19,9,Spain,Weekend,Critical,Portal,Purchasing & invoicing,Other,Tier 1,A. Khan,Closed,35,20,4.8
+TKT-6281,2025-05-24,16,Netherlands,Weekend,Low,Email,Product setup,Ready-to-use software,Specialists,H. Martin,Closed,103,23,3.2
+TKT-6282,2025-06-02,23,France,Workday,Medium,Phone,Feature request,Custom development,Tier 2,F. Rossi,Closed,11,14,3.9
+TKT-6283,2025-07-07,6,Italy,Workday,High,Chat,Bug report,Training services,Tier 1,D. Garcia,Closed,24,25,4.6
+TKT-6284,2025-08-12,13,Netherlands,Workday,Critical,Portal,Pricing & licensing,Integrations,Specialists,B. Smith,Open,37,8,
+TKT-6285,2025-09-17,20,France,Workday,Low,Email,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Open,50,19,
+TKT-6286,2025-10-22,3,Italy,Workday,Medium,Phone,Product setup,Ready-to-use software,Tier 1,G. de Vries,Closed,13,50,4.4
+TKT-6287,2025-11-27,10,Netherlands,Workday,High,Chat,Feature request,Custom development,Specialists,E. Müller,Closed,26,13,2.8
+TKT-6288,2025-12-05,17,France,Workday,Critical,Portal,Bug report,Training services,Tier 2,C. Chen,Closed,39,24,3.5
+TKT-6289,2025-01-10,0,Belgium,Workday,Low,Email,Pricing & licensing,Integrations,Tier 1,A. Khan,Closed,107,7,4.2
+TKT-6290,2025-02-15,7,Netherlands,Weekend,High,Phone,Purchasing & invoicing,Other,Specialists,H. Martin,Closed,15,18,4.9
+TKT-6291,2025-03-20,14,United Kingdom,Workday,Critical,Chat,Product setup,Ready-to-use software,Tier 2,F. Rossi,Closed,28,49,3.3
+TKT-6292,2025-04-25,21,Switzerland,Workday,Low,Portal,Feature request,Custom development,Tier 1,D. Garcia,Open,41,12,
+TKT-6293,2025-05-03,4,Germany,Weekend,Medium,Email,Bug report,Training services,Specialists,B. Smith,Open,54,23,
+TKT-6294,2025-06-08,11,United Kingdom,Weekend,High,Phone,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Closed,17,6,3.1
+TKT-6295,2025-07-13,18,Austria,Weekend,Critical,Chat,Purchasing & invoicing,Other,Tier 1,G. de Vries,Closed,30,17,3.8
+TKT-6296,2025-08-18,1,Germany,Workday,Low,Portal,Product setup,Ready-to-use software,Specialists,E. Müller,Closed,43,48,4.5
+TKT-6297,2025-09-23,8,Spain,Workday,Medium,Email,Feature request,Custom development,Tier 2,C. Chen,Closed,111,11,2.9
+TKT-6298,2025-10-01,15,Poland,Workday,High,Phone,Bug report,Training services,Tier 1,A. Khan,Closed,19,22,3.6
+TKT-6299,2025-11-06,22,Germany,Workday,Critical,Chat,Pricing & licensing,Integrations,Specialists,H. Martin,Closed,32,5,4.3
+TKT-6300,2025-12-11,5,Spain,Workday,Low,Portal,Purchasing & invoicing,Other,Tier 2,F. Rossi,Open,45,16,
+TKT-6301,2025-01-16,12,Netherlands,Workday,Medium,Email,Product setup,Ready-to-use software,Tier 1,D. Garcia,Closed,8,47,3.4
+TKT-6302,2025-02-21,19,France,Workday,High,Phone,Feature request,Custom development,Specialists,B. Smith,Closed,21,10,4.1
+TKT-6303,2025-03-26,2,Italy,Workday,Critical,Chat,Bug report,Training services,Tier 2,I. Kowalski,Closed,34,21,4.8
+TKT-6304,2025-04-04,9,Netherlands,Workday,Low,Portal,Pricing & licensing,Integrations,Tier 1,G. de Vries,Closed,47,4,3.2
+TKT-6305,2025-05-09,16,France,Workday,Medium,Email,Purchasing & invoicing,Other,Specialists,E. Müller,Closed,65,15,3.9
+TKT-6306,2025-06-14,23,Italy,Weekend,High,Phone,Product setup,Ready-to-use software,Tier 2,C. Chen,Closed,23,46,4.6
+TKT-6307,2025-07-19,6,Netherlands,Weekend,Low,Chat,Feature request,Custom development,Tier 1,A. Khan,Open,36,9,
+TKT-6308,2025-08-24,13,France,Weekend,Medium,Portal,Bug report,Training services,Specialists,H. Martin,Open,49,20,
+TKT-6309,2025-09-02,20,Belgium,Workday,High,Email,Pricing & licensing,Integrations,Tier 2,F. Rossi,Closed,12,3,4.4
+TKT-6310,2025-10-07,3,Netherlands,Workday,Critical,Phone,Purchasing & invoicing,Other,Tier 1,D. Garcia,Closed,25,14,2.8
+TKT-6311,2025-11-12,10,United Kingdom,Workday,Low,Chat,Product setup,Ready-to-use software,Specialists,B. Smith,Closed,38,45,3.5
+TKT-6312,2025-12-17,17,Switzerland,Workday,Medium,Portal,Feature request,Custom development,Tier 2,I. Kowalski,Closed,51,8,4.2
+TKT-6313,2025-01-22,0,Germany,Workday,High,Email,Bug report,Training services,Tier 1,G. de Vries,Closed,69,19,4.9
+TKT-6314,2025-02-27,7,United Kingdom,Workday,Critical,Phone,Pricing & licensing,Integrations,Specialists,E. Müller,Closed,27,30,3.3
+TKT-6315,2025-03-05,14,Austria,Workday,Low,Chat,Purchasing & invoicing,Other,Tier 2,C. Chen,Open,40,13,
+TKT-6316,2025-04-10,21,Germany,Workday,Medium,Portal,Product setup,Ready-to-use software,Tier 1,A. Khan,Open,53,44,
+TKT-6317,2025-05-15,4,Spain,Workday,High,Email,Feature request,Custom development,Specialists,H. Martin,Closed,16,7,3.1
+TKT-6318,2025-06-20,11,Poland,Workday,Critical,Phone,Bug report,Training services,Tier 2,F. Rossi,Closed,29,18,3.8
+TKT-6319,2025-07-25,18,Germany,Workday,Low,Chat,Pricing & licensing,Integrations,Tier 1,D. Garcia,Closed,42,29,4.5
+TKT-6320,2025-08-03,1,Spain,Weekend,Medium,Portal,Purchasing & invoicing,Other,Specialists,B. Smith,Closed,55,12,2.9
+TKT-6321,2025-09-08,8,Netherlands,Workday,High,Email,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Closed,73,43,3.6
+TKT-6322,2025-10-13,15,France,Workday,Critical,Phone,Feature request,Custom development,Tier 1,G. de Vries,Closed,31,6,4.3
+TKT-6323,2025-11-18,22,Italy,Workday,Low,Chat,Bug report,Training services,Specialists,E. Müller,Open,44,17,
+TKT-6324,2025-12-23,5,Netherlands,Workday,High,Portal,Pricing & licensing,Integrations,Tier 2,C. Chen,Open,57,28,
+TKT-6325,2025-01-01,12,France,Workday,Critical,Email,Purchasing & invoicing,Other,Tier 1,A. Khan,Closed,20,11,4.1
+TKT-6326,2025-02-06,19,Italy,Workday,Low,Phone,Product setup,Ready-to-use software,Specialists,H. Martin,Closed,33,42,4.8
+TKT-6327,2025-03-11,2,Netherlands,Workday,Medium,Chat,Feature request,Custom development,Tier 2,F. Rossi,Closed,46,5,3.2
+TKT-6328,2025-04-16,9,France,Workday,High,Portal,Bug report,Training services,Tier 1,D. Garcia,Closed,9,16,3.9
+TKT-6329,2025-05-21,16,Belgium,Workday,Critical,Email,Pricing & licensing,Integrations,Specialists,B. Smith,Closed,77,27,4.6
+TKT-6330,2025-06-26,23,Netherlands,Workday,Low,Phone,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Closed,35,10,3
+TKT-6331,2025-07-04,6,United Kingdom,Workday,Medium,Chat,Product setup,Ready-to-use software,Tier 1,G. de Vries,Open,48,41,
+TKT-6332,2025-08-09,13,Switzerland,Weekend,High,Portal,Feature request,Custom development,Specialists,E. Müller,Closed,11,4,4.4
+TKT-6333,2025-09-14,20,Germany,Weekend,Critical,Email,Bug report,Training services,Tier 2,C. Chen,Closed,24,15,2.8
+TKT-6334,2025-10-19,3,United Kingdom,Weekend,Low,Phone,Pricing & licensing,Integrations,Tier 1,A. Khan,Closed,37,26,3.5
+TKT-6335,2025-11-24,10,Austria,Workday,Medium,Chat,Purchasing & invoicing,Other,Specialists,H. Martin,Closed,50,9,4.2
+TKT-6336,2025-12-02,17,Germany,Workday,High,Portal,Product setup,Ready-to-use software,Tier 2,F. Rossi,Closed,13,40,4.9
+TKT-6337,2025-01-07,0,Spain,Workday,Critical,Email,Feature request,Custom development,Tier 1,D. Garcia,Closed,81,3,3.3
+TKT-6338,2025-02-12,7,Poland,Workday,Low,Phone,Bug report,Training services,Specialists,B. Smith,Open,39,14,
+TKT-6339,2025-03-17,14,Germany,Workday,Medium,Chat,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Open,52,25,
+TKT-6340,2025-04-22,21,Spain,Workday,High,Portal,Purchasing & invoicing,Other,Tier 1,G. de Vries,Closed,15,8,3.1
+TKT-6341,2025-05-27,4,Netherlands,Workday,Low,Email,Product setup,Ready-to-use software,Specialists,E. Müller,Closed,28,39,3.8
+TKT-6342,2025-06-05,11,France,Workday,Medium,Phone,Feature request,Custom development,Tier 2,C. Chen,Closed,41,30,4.5
+TKT-6343,2025-07-10,18,Italy,Workday,High,Chat,Bug report,Training services,Tier 1,A. Khan,Closed,54,13,2.9
+TKT-6344,2025-08-15,1,Netherlands,Workday,Critical,Portal,Pricing & licensing,Integrations,Specialists,H. Martin,Closed,17,24,3.6
+TKT-6345,2025-09-20,8,France,Weekend,Low,Email,Purchasing & invoicing,Other,Tier 2,F. Rossi,Closed,85,7,4.3
+TKT-6346,2025-10-25,15,Italy,Weekend,Medium,Phone,Product setup,Ready-to-use software,Tier 1,D. Garcia,Open,43,38,
+TKT-6347,2025-11-03,22,Netherlands,Workday,High,Chat,Feature request,Custom development,Specialists,B. Smith,Open,56,29,
+TKT-6348,2025-12-08,5,France,Workday,Critical,Portal,Bug report,Training services,Tier 2,I. Kowalski,Closed,19,12,4.1
+TKT-6349,2025-01-13,12,Belgium,Workday,Low,Email,Pricing & licensing,Integrations,Tier 1,G. de Vries,Closed,32,23,4.8
+TKT-6350,2025-02-18,19,Netherlands,Workday,Medium,Phone,Purchasing & invoicing,Other,Specialists,E. Müller,Closed,45,6,3.2
+TKT-6351,2025-03-23,2,United Kingdom,Weekend,High,Chat,Product setup,Ready-to-use software,Tier 2,C. Chen,Closed,8,37,3.9
+TKT-6352,2025-04-01,9,Switzerland,Workday,Critical,Portal,Feature request,Custom development,Tier 1,A. Khan,Closed,21,28,4.6
+TKT-6353,2025-05-06,16,Germany,Workday,Low,Email,Bug report,Training services,Specialists,H. Martin,Closed,89,11,3
+TKT-6354,2025-06-11,23,United Kingdom,Workday,Medium,Phone,Pricing & licensing,Integrations,Tier 2,F. Rossi,Open,47,22,
+TKT-6355,2025-07-16,6,Austria,Workday,High,Chat,Purchasing & invoicing,Other,Tier 1,D. Garcia,Closed,10,5,4.4
+TKT-6356,2025-08-21,13,Germany,Workday,Critical,Portal,Product setup,Ready-to-use software,Specialists,B. Smith,Closed,23,36,2.8
+TKT-6357,2025-09-26,20,Spain,Workday,Low,Email,Feature request,Custom development,Tier 2,I. Kowalski,Closed,36,27,3.5
+TKT-6358,2025-10-04,3,Poland,Weekend,High,Phone,Bug report,Training services,Tier 1,G. de Vries,Closed,49,10,4.2
+TKT-6359,2025-11-09,10,Germany,Weekend,Critical,Chat,Pricing & licensing,Integrations,Specialists,E. Müller,Closed,12,21,4.9
+TKT-6360,2025-12-14,17,Spain,Weekend,Low,Portal,Purchasing & invoicing,Other,Tier 2,C. Chen,Closed,25,4,3.3
+TKT-6361,2025-01-19,0,Netherlands,Weekend,Medium,Email,Product setup,Ready-to-use software,Tier 1,A. Khan,Open,93,35,
+TKT-6362,2025-02-24,7,France,Workday,High,Phone,Feature request,Custom development,Specialists,H. Martin,Open,51,26,
+TKT-6363,2025-03-02,14,Italy,Weekend,Critical,Chat,Bug report,Training services,Tier 2,F. Rossi,Closed,14,9,3.1
+TKT-6364,2025-04-07,21,Netherlands,Workday,Low,Portal,Pricing & licensing,Integrations,Tier 1,D. Garcia,Closed,27,20,3.8
+TKT-6365,2025-05-12,4,France,Workday,Medium,Email,Purchasing & invoicing,Other,Specialists,B. Smith,Closed,40,3,4.5
+TKT-6366,2025-06-17,11,Italy,Workday,High,Phone,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Closed,53,34,2.9
+TKT-6367,2025-07-22,18,Netherlands,Workday,Critical,Chat,Feature request,Custom development,Tier 1,G. de Vries,Closed,16,25,3.6
+TKT-6368,2025-08-27,1,France,Workday,Low,Portal,Bug report,Training services,Specialists,E. Müller,Closed,29,8,4.3
+TKT-6369,2025-09-05,8,Belgium,Workday,Medium,Email,Pricing & licensing,Integrations,Tier 2,C. Chen,Open,97,19,
+TKT-6370,2025-10-10,15,Netherlands,Workday,High,Phone,Purchasing & invoicing,Other,Tier 1,A. Khan,Open,55,30,
+TKT-6371,2025-11-15,22,United Kingdom,Weekend,Critical,Chat,Product setup,Ready-to-use software,Specialists,H. Martin,Closed,18,33,4.1
+TKT-6372,2025-12-20,5,Switzerland,Weekend,Low,Portal,Feature request,Custom development,Tier 2,F. Rossi,Closed,31,24,4.8
+TKT-6373,2025-01-25,12,Germany,Weekend,Medium,Email,Bug report,Training services,Tier 1,D. Garcia,Closed,44,7,3.2
+TKT-6374,2025-02-03,19,United Kingdom,Workday,High,Phone,Pricing & licensing,Integrations,Specialists,B. Smith,Closed,57,18,3.9
+TKT-6375,2025-03-08,2,Austria,Weekend,Low,Chat,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Closed,20,29,4.6
+TKT-6376,2025-04-13,9,Germany,Weekend,Medium,Portal,Product setup,Ready-to-use software,Tier 1,G. de Vries,Closed,33,32,3
+TKT-6377,2025-05-18,16,Spain,Weekend,High,Email,Feature request,Custom development,Specialists,E. Müller,Open,101,23,
+TKT-6378,2025-06-23,23,Poland,Workday,Critical,Phone,Bug report,Training services,Tier 2,C. Chen,Closed,9,6,4.4
+TKT-6379,2025-07-01,6,Germany,Workday,Low,Chat,Pricing & licensing,Integrations,Tier 1,A. Khan,Closed,22,17,2.8
+TKT-6380,2025-08-06,13,Spain,Workday,Medium,Portal,Purchasing & invoicing,Other,Specialists,H. Martin,Closed,35,28,3.5
+TKT-6381,2025-09-11,20,Netherlands,Workday,High,Email,Product setup,Ready-to-use software,Tier 2,F. Rossi,Closed,48,31,4.2
+TKT-6382,2025-10-16,3,France,Workday,Critical,Phone,Feature request,Custom development,Tier 1,D. Garcia,Closed,11,22,4.9
+TKT-6383,2025-11-21,10,Italy,Workday,Low,Chat,Bug report,Training services,Specialists,B. Smith,Closed,24,5,3.3
+TKT-6384,2025-12-26,17,Netherlands,Workday,Medium,Portal,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Open,37,16,
+TKT-6385,2025-01-04,0,France,Weekend,High,Email,Purchasing & invoicing,Other,Tier 1,G. de Vries,Open,105,27,
+TKT-6386,2025-02-09,7,Italy,Weekend,Critical,Phone,Product setup,Ready-to-use software,Specialists,E. Müller,Closed,13,30,3.1
+TKT-6387,2025-03-14,14,Netherlands,Workday,Low,Chat,Feature request,Custom development,Tier 2,C. Chen,Closed,26,21,3.8
+TKT-6388,2025-04-19,21,France,Weekend,Medium,Portal,Bug report,Training services,Tier 1,A. Khan,Closed,39,4,4.5
+TKT-6389,2025-05-24,4,Belgium,Weekend,High,Email,Pricing & licensing,Integrations,Specialists,H. Martin,Closed,52,15,2.9
+TKT-6390,2025-06-02,11,Netherlands,Workday,Critical,Phone,Purchasing & invoicing,Other,Tier 2,F. Rossi,Closed,15,26,3.6
+TKT-6391,2025-07-07,18,United Kingdom,Workday,Low,Chat,Product setup,Ready-to-use software,Tier 1,D. Garcia,Closed,28,29,4.3
+TKT-6392,2025-08-12,1,Switzerland,Workday,High,Portal,Feature request,Custom development,Specialists,B. Smith,Open,41,20,
+TKT-6393,2025-09-17,8,Germany,Workday,Critical,Email,Bug report,Training services,Tier 2,I. Kowalski,Open,109,3,
+TKT-6394,2025-10-22,15,United Kingdom,Workday,Low,Phone,Pricing & licensing,Integrations,Tier 1,G. de Vries,Closed,17,14,4.1
+TKT-6395,2025-11-27,22,Austria,Workday,Medium,Chat,Purchasing & invoicing,Other,Specialists,E. Müller,Closed,30,25,4.8
+TKT-6396,2025-12-05,5,Germany,Workday,High,Portal,Product setup,Ready-to-use software,Tier 2,C. Chen,Closed,43,28,3.2
+TKT-6397,2025-01-10,12,Spain,Workday,Critical,Email,Feature request,Custom development,Tier 1,A. Khan,Closed,56,19,3.9
+TKT-6398,2025-02-15,19,Poland,Weekend,Low,Phone,Bug report,Training services,Specialists,H. Martin,Closed,19,30,4.6
+TKT-6399,2025-03-20,2,Germany,Workday,Medium,Chat,Pricing & licensing,Integrations,Tier 2,F. Rossi,Closed,32,13,3
+TKT-6400,2025-04-25,9,Spain,Workday,High,Portal,Purchasing & invoicing,Other,Tier 1,D. Garcia,Open,45,24,
+TKT-6401,2025-05-03,16,Netherlands,Weekend,Critical,Email,Product setup,Ready-to-use software,Specialists,B. Smith,Closed,63,27,4.4
+TKT-6402,2025-06-08,23,France,Weekend,Low,Phone,Feature request,Custom development,Tier 2,I. Kowalski,Closed,21,18,2.8
+TKT-6403,2025-07-13,6,Italy,Weekend,Medium,Chat,Bug report,Training services,Tier 1,G. de Vries,Closed,34,29,3.5
+TKT-6404,2025-08-18,13,Netherlands,Workday,High,Portal,Pricing & licensing,Integrations,Specialists,E. Müller,Closed,47,12,4.2
+TKT-6405,2025-09-23,20,France,Workday,Critical,Email,Purchasing & invoicing,Other,Tier 2,C. Chen,Closed,10,23,4.9
+TKT-6406,2025-10-01,3,Italy,Workday,Low,Phone,Product setup,Ready-to-use software,Tier 1,A. Khan,Closed,23,26,3.3
+TKT-6407,2025-11-06,10,Netherlands,Workday,Medium,Chat,Feature request,Custom development,Specialists,H. Martin,Open,36,17,
+TKT-6408,2025-12-11,17,France,Workday,High,Portal,Bug report,Training services,Tier 2,F. Rossi,Open,49,28,
+TKT-6409,2025-01-16,0,Belgium,Workday,Low,Email,Pricing & licensing,Integrations,Tier 1,D. Garcia,Closed,67,11,3.1
+TKT-6410,2025-02-21,7,Netherlands,Workday,Medium,Phone,Purchasing & invoicing,Other,Specialists,B. Smith,Closed,25,22,3.8
+TKT-6411,2025-03-26,14,United Kingdom,Workday,High,Chat,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Closed,38,25,4.5
+TKT-6412,2025-04-04,21,Switzerland,Workday,Critical,Portal,Feature request,Custom development,Tier 1,G. de Vries,Closed,51,16,2.9
+TKT-6413,2025-05-09,4,Germany,Workday,Low,Email,Bug report,Training services,Specialists,E. Müller,Closed,14,27,3.6
+TKT-6414,2025-06-14,11,United Kingdom,Weekend,Medium,Phone,Pricing & licensing,Integrations,Tier 2,C. Chen,Closed,27,10,4.3
+TKT-6415,2025-07-19,18,Austria,Weekend,High,Chat,Purchasing & invoicing,Other,Tier 1,A. Khan,Open,40,21,
+TKT-6416,2025-08-24,1,Germany,Weekend,Critical,Portal,Product setup,Ready-to-use software,Specialists,H. Martin,Open,53,24,
+TKT-6417,2025-09-02,8,Spain,Workday,Low,Email,Feature request,Custom development,Tier 2,F. Rossi,Closed,71,15,4.1
+TKT-6418,2025-10-07,15,Poland,Workday,Medium,Phone,Bug report,Training services,Tier 1,D. Garcia,Closed,29,26,4.8
+TKT-6419,2025-11-12,22,Germany,Workday,High,Chat,Pricing & licensing,Integrations,Specialists,B. Smith,Closed,42,9,3.2
+TKT-6420,2025-12-17,5,Spain,Workday,Critical,Portal,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Closed,55,20,3.9
+TKT-6421,2025-01-22,12,Netherlands,Workday,Low,Email,Product setup,Ready-to-use software,Tier 1,G. de Vries,Closed,18,23,4.6
+TKT-6422,2025-02-27,19,France,Workday,Medium,Phone,Feature request,Custom development,Specialists,E. Müller,Closed,31,14,3
+TKT-6423,2025-03-05,2,Italy,Workday,High,Chat,Bug report,Training services,Tier 2,C. Chen,Open,44,25,
+TKT-6424,2025-04-10,9,Netherlands,Workday,Critical,Portal,Pricing & licensing,Integrations,Tier 1,A. Khan,Open,57,8,
+TKT-6425,2025-05-15,16,France,Workday,Low,Email,Purchasing & invoicing,Other,Specialists,H. Martin,Closed,75,19,2.8
+TKT-6426,2025-06-20,23,Italy,Workday,High,Phone,Product setup,Ready-to-use software,Tier 2,F. Rossi,Closed,33,50,3.5
+TKT-6427,2025-07-25,6,Netherlands,Workday,Critical,Chat,Feature request,Custom development,Tier 1,D. Garcia,Closed,46,13,4.2
+TKT-6428,2025-08-03,13,France,Weekend,Low,Portal,Bug report,Training services,Specialists,B. Smith,Closed,9,24,4.9
+TKT-6429,2025-09-08,20,Belgium,Workday,Medium,Email,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Closed,22,7,3.3
+TKT-6430,2025-10-13,3,Netherlands,Workday,High,Phone,Purchasing & invoicing,Other,Tier 1,G. de Vries,Closed,35,18,4
+TKT-6431,2025-11-18,10,United Kingdom,Workday,Critical,Chat,Product setup,Ready-to-use software,Specialists,E. Müller,Open,48,49,
+TKT-6432,2025-12-23,17,Switzerland,Workday,Low,Portal,Feature request,Custom development,Tier 2,C. Chen,Closed,11,12,3.1
+TKT-6433,2025-01-01,0,Germany,Workday,Medium,Email,Bug report,Training services,Tier 1,A. Khan,Closed,79,23,3.8
+TKT-6434,2025-02-06,7,United Kingdom,Workday,High,Phone,Pricing & licensing,Integrations,Specialists,H. Martin,Closed,37,6,4.5
+TKT-6435,2025-03-11,14,Austria,Workday,Critical,Chat,Purchasing & invoicing,Other,Tier 2,F. Rossi,Closed,50,17,2.9
+TKT-6436,2025-04-16,21,Germany,Workday,Low,Portal,Product setup,Ready-to-use software,Tier 1,D. Garcia,Closed,13,48,3.6
+TKT-6437,2025-05-21,4,Spain,Workday,Medium,Email,Feature request,Custom development,Specialists,B. Smith,Closed,26,11,4.3
+TKT-6438,2025-06-26,11,Poland,Workday,High,Phone,Bug report,Training services,Tier 2,I. Kowalski,Open,39,22,
+TKT-6439,2025-07-04,18,Germany,Workday,Critical,Chat,Pricing & licensing,Integrations,Tier 1,G. de Vries,Open,52,5,
+TKT-6440,2025-08-09,1,Spain,Weekend,Low,Portal,Purchasing & invoicing,Other,Specialists,E. Müller,Closed,15,16,4.1
+TKT-6441,2025-09-14,8,Netherlands,Weekend,Medium,Email,Product setup,Ready-to-use software,Tier 2,C. Chen,Closed,83,47,4.8
+TKT-6442,2025-10-19,15,France,Weekend,High,Phone,Feature request,Custom development,Tier 1,A. Khan,Closed,41,10,3.2
+TKT-6443,2025-11-24,22,Italy,Workday,Low,Chat,Bug report,Training services,Specialists,H. Martin,Closed,54,21,3.9
+TKT-6444,2025-12-02,5,Netherlands,Workday,Medium,Portal,Pricing & licensing,Integrations,Tier 2,F. Rossi,Closed,17,4,4.6
+TKT-6445,2025-01-07,12,France,Workday,High,Email,Purchasing & invoicing,Other,Tier 1,D. Garcia,Closed,30,15,3
+TKT-6446,2025-02-12,19,Italy,Workday,Critical,Phone,Product setup,Ready-to-use software,Specialists,B. Smith,Open,43,46,
+TKT-6447,2025-03-17,2,Netherlands,Workday,Low,Chat,Feature request,Custom development,Tier 2,I. Kowalski,Open,56,9,
+TKT-6448,2025-04-22,9,France,Workday,Medium,Portal,Bug report,Training services,Tier 1,G. de Vries,Closed,19,20,2.8
+TKT-6449,2025-05-27,16,Belgium,Workday,High,Email,Pricing & licensing,Integrations,Specialists,E. Müller,Closed,87,3,3.5
+TKT-6450,2025-06-05,23,Netherlands,Workday,Critical,Phone,Purchasing & invoicing,Other,Tier 2,C. Chen,Closed,45,14,4.2
+TKT-6451,2025-07-10,6,United Kingdom,Workday,Low,Chat,Product setup,Ready-to-use software,Tier 1,A. Khan,Closed,8,45,4.9
+TKT-6452,2025-08-15,13,Switzerland,Workday,Medium,Portal,Feature request,Custom development,Specialists,H. Martin,Closed,21,8,3.3
+TKT-6453,2025-09-20,20,Germany,Weekend,High,Email,Bug report,Training services,Tier 2,F. Rossi,Closed,34,19,4
+TKT-6454,2025-10-25,3,United Kingdom,Weekend,Critical,Phone,Pricing & licensing,Integrations,Tier 1,D. Garcia,Open,47,30,
+TKT-6455,2025-11-03,10,Austria,Workday,Low,Chat,Purchasing & invoicing,Other,Specialists,B. Smith,Closed,10,13,3.1
+TKT-6456,2025-12-08,17,Germany,Workday,Medium,Portal,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Closed,23,44,3.8
+TKT-6457,2025-01-13,0,Spain,Workday,High,Email,Feature request,Custom development,Tier 1,G. de Vries,Closed,91,7,4.5
+TKT-6458,2025-02-18,7,Poland,Workday,Critical,Phone,Bug report,Training services,Specialists,E. Müller,Closed,49,18,2.9
+TKT-6459,2025-03-23,14,Germany,Weekend,Low,Chat,Pricing & licensing,Integrations,Tier 2,C. Chen,Closed,12,29,3.6
+TKT-6460,2025-04-01,21,Spain,Workday,High,Portal,Purchasing & invoicing,Other,Tier 1,A. Khan,Closed,25,12,4.3
+TKT-6461,2025-05-06,4,Netherlands,Workday,Critical,Email,Product setup,Ready-to-use software,Specialists,H. Martin,Open,38,43,
+TKT-6462,2025-06-11,11,France,Workday,Low,Phone,Feature request,Custom development,Tier 2,F. Rossi,Open,51,6,
+TKT-6463,2025-07-16,18,Italy,Workday,Medium,Chat,Bug report,Training services,Tier 1,D. Garcia,Closed,14,17,4.1
+TKT-6464,2025-08-21,1,Netherlands,Workday,High,Portal,Pricing & licensing,Integrations,Specialists,B. Smith,Closed,27,28,4.8
+TKT-6465,2025-09-26,8,France,Workday,Critical,Email,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Closed,95,11,3.2
+TKT-6466,2025-10-04,15,Italy,Weekend,Low,Phone,Product setup,Ready-to-use software,Tier 1,G. de Vries,Closed,53,42,3.9
+TKT-6467,2025-11-09,22,Netherlands,Weekend,Medium,Chat,Feature request,Custom development,Specialists,E. Müller,Closed,16,5,4.6
+TKT-6468,2025-12-14,5,France,Weekend,High,Portal,Bug report,Training services,Tier 2,C. Chen,Closed,29,16,3
+TKT-6469,2025-01-19,12,Belgium,Weekend,Critical,Email,Pricing & licensing,Integrations,Tier 1,A. Khan,Open,42,27,
+TKT-6470,2025-02-24,19,Netherlands,Workday,Low,Phone,Purchasing & invoicing,Other,Specialists,H. Martin,Open,55,10,
+TKT-6471,2025-03-02,2,United Kingdom,Weekend,Medium,Chat,Product setup,Ready-to-use software,Tier 2,F. Rossi,Closed,18,41,2.8
+TKT-6472,2025-04-07,9,Switzerland,Workday,High,Portal,Feature request,Custom development,Tier 1,D. Garcia,Closed,31,4,3.5
+TKT-6473,2025-05-12,16,Germany,Workday,Critical,Email,Bug report,Training services,Specialists,B. Smith,Closed,99,15,4.2
+TKT-6474,2025-06-17,23,United Kingdom,Workday,Low,Phone,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Closed,57,26,4.9
+TKT-6475,2025-07-22,6,Austria,Workday,Medium,Chat,Purchasing & invoicing,Other,Tier 1,G. de Vries,Closed,20,9,3.3
+TKT-6476,2025-08-27,13,Germany,Workday,High,Portal,Product setup,Ready-to-use software,Specialists,E. Müller,Closed,33,40,4
+TKT-6477,2025-09-05,20,Spain,Workday,Low,Email,Feature request,Custom development,Tier 2,C. Chen,Open,46,3,
+TKT-6478,2025-10-10,3,Poland,Workday,Medium,Phone,Bug report,Training services,Tier 1,A. Khan,Closed,9,14,3.1
+TKT-6479,2025-11-15,10,Germany,Weekend,High,Chat,Pricing & licensing,Integrations,Specialists,H. Martin,Closed,22,25,3.8
+TKT-6480,2025-12-20,17,Spain,Weekend,Critical,Portal,Purchasing & invoicing,Other,Tier 2,F. Rossi,Closed,35,8,4.5
+TKT-6481,2025-01-25,0,Netherlands,Weekend,Low,Email,Product setup,Ready-to-use software,Tier 1,D. Garcia,Closed,103,39,2.9
+TKT-6482,2025-02-03,7,France,Workday,Medium,Phone,Feature request,Custom development,Specialists,B. Smith,Closed,11,30,3.6
+TKT-6483,2025-03-08,14,Italy,Weekend,High,Chat,Bug report,Training services,Tier 2,I. Kowalski,Closed,24,13,4.3
+TKT-6484,2025-04-13,21,Netherlands,Weekend,Critical,Portal,Pricing & licensing,Integrations,Tier 1,G. de Vries,Open,37,24,
+TKT-6485,2025-05-18,4,France,Weekend,Low,Email,Purchasing & invoicing,Other,Specialists,E. Müller,Open,50,7,
+TKT-6486,2025-06-23,11,Italy,Workday,Medium,Phone,Product setup,Ready-to-use software,Tier 2,C. Chen,Closed,13,38,4.1
+TKT-6487,2025-07-01,18,Netherlands,Workday,High,Chat,Feature request,Custom development,Tier 1,A. Khan,Closed,26,29,4.8
+TKT-6488,2025-08-06,1,France,Workday,Critical,Portal,Bug report,Training services,Specialists,H. Martin,Closed,39,12,3.2
+TKT-6489,2025-09-11,8,Belgium,Workday,Low,Email,Pricing & licensing,Integrations,Tier 2,F. Rossi,Closed,107,23,3.9
+TKT-6490,2025-10-16,15,Netherlands,Workday,Medium,Phone,Purchasing & invoicing,Other,Tier 1,D. Garcia,Closed,15,6,4.6
+TKT-6491,2025-11-21,22,United Kingdom,Workday,High,Chat,Product setup,Ready-to-use software,Specialists,B. Smith,Closed,28,37,3
+TKT-6492,2025-12-26,5,Switzerland,Workday,Critical,Portal,Feature request,Custom development,Tier 2,I. Kowalski,Open,41,28,
+TKT-6493,2025-01-04,12,Germany,Weekend,Low,Email,Bug report,Training services,Tier 1,G. de Vries,Open,54,11,
+TKT-6494,2025-02-09,19,United Kingdom,Weekend,High,Phone,Pricing & licensing,Integrations,Specialists,E. Müller,Closed,17,22,2.8
+TKT-6495,2025-03-14,2,Austria,Workday,Critical,Chat,Purchasing & invoicing,Other,Tier 2,C. Chen,Closed,30,5,3.5
+TKT-6496,2025-04-19,9,Germany,Weekend,Low,Portal,Product setup,Ready-to-use software,Tier 1,A. Khan,Closed,43,36,4.2
+TKT-6497,2025-05-24,16,Spain,Weekend,Medium,Email,Feature request,Custom development,Specialists,H. Martin,Closed,111,27,4.9
+TKT-6498,2025-06-02,23,Poland,Workday,High,Phone,Bug report,Training services,Tier 2,F. Rossi,Closed,19,10,3.3
+TKT-6499,2025-07-07,6,Germany,Workday,Critical,Chat,Pricing & licensing,Integrations,Tier 1,D. Garcia,Closed,32,21,4
+TKT-6500,2025-08-12,13,Spain,Workday,Low,Portal,Purchasing & invoicing,Other,Specialists,B. Smith,Open,45,4,
+TKT-6501,2025-09-17,20,Netherlands,Workday,Medium,Email,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Closed,8,35,3.1
+TKT-6502,2025-10-22,3,France,Workday,High,Phone,Feature request,Custom development,Tier 1,G. de Vries,Closed,21,26,3.8
+TKT-6503,2025-11-27,10,Italy,Workday,Critical,Chat,Bug report,Training services,Specialists,E. Müller,Closed,34,9,4.5
+TKT-6504,2025-12-05,17,Netherlands,Workday,Low,Portal,Pricing & licensing,Integrations,Tier 2,C. Chen,Closed,47,20,2.9
+TKT-6505,2025-01-10,0,France,Workday,Medium,Email,Purchasing & invoicing,Other,Tier 1,A. Khan,Closed,65,3,3.6
+TKT-6506,2025-02-15,7,Italy,Weekend,High,Phone,Product setup,Ready-to-use software,Specialists,H. Martin,Closed,23,34,4.3
+TKT-6507,2025-03-20,14,Netherlands,Workday,Critical,Chat,Feature request,Custom development,Tier 2,F. Rossi,Open,36,25,
+TKT-6508,2025-04-25,21,France,Workday,Low,Portal,Bug report,Training services,Tier 1,D. Garcia,Open,49,8,
+TKT-6509,2025-05-03,4,Belgium,Weekend,Medium,Email,Pricing & licensing,Integrations,Specialists,B. Smith,Closed,12,19,4.1
+TKT-6510,2025-06-08,11,Netherlands,Weekend,High,Phone,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Closed,25,30,4.8
+TKT-6511,2025-07-13,18,United Kingdom,Weekend,Low,Chat,Product setup,Ready-to-use software,Tier 1,G. de Vries,Closed,38,33,3.2
+TKT-6512,2025-08-18,1,Switzerland,Workday,Medium,Portal,Feature request,Custom development,Specialists,E. Müller,Closed,51,24,3.9
+TKT-6513,2025-09-23,8,Germany,Workday,High,Email,Bug report,Training services,Tier 2,C. Chen,Closed,69,7,4.6
+TKT-6514,2025-10-01,15,United Kingdom,Workday,Critical,Phone,Pricing & licensing,Integrations,Tier 1,A. Khan,Closed,27,18,3
+TKT-6515,2025-11-06,22,Austria,Workday,Low,Chat,Purchasing & invoicing,Other,Specialists,H. Martin,Open,40,29,
+TKT-6516,2025-12-11,5,Germany,Workday,Medium,Portal,Product setup,Ready-to-use software,Tier 2,F. Rossi,Open,53,32,
+TKT-6517,2025-01-16,12,Spain,Workday,High,Email,Feature request,Custom development,Tier 1,D. Garcia,Closed,16,23,2.8
+TKT-6518,2025-02-21,19,Poland,Workday,Critical,Phone,Bug report,Training services,Specialists,B. Smith,Closed,29,6,3.5
+TKT-6519,2025-03-26,2,Germany,Workday,Low,Chat,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Closed,42,17,4.2
+TKT-6520,2025-04-04,9,Spain,Workday,Medium,Portal,Purchasing & invoicing,Other,Tier 1,G. de Vries,Closed,55,28,4.9
+TKT-6521,2025-05-09,16,Netherlands,Workday,High,Email,Product setup,Ready-to-use software,Specialists,E. Müller,Closed,73,31,3.3
+TKT-6522,2025-06-14,23,France,Weekend,Critical,Phone,Feature request,Custom development,Tier 2,C. Chen,Closed,31,22,4
+TKT-6523,2025-07-19,6,Italy,Weekend,Low,Chat,Bug report,Training services,Tier 1,A. Khan,Open,44,5,
+TKT-6524,2025-08-24,13,Netherlands,Weekend,Medium,Portal,Pricing & licensing,Integrations,Specialists,H. Martin,Open,57,16,
+TKT-6525,2025-09-02,20,France,Workday,High,Email,Purchasing & invoicing,Other,Tier 2,F. Rossi,Closed,20,27,3.8
+TKT-6526,2025-10-07,3,Italy,Workday,Critical,Phone,Product setup,Ready-to-use software,Tier 1,D. Garcia,Closed,33,30,4.5
+TKT-6527,2025-11-12,10,Netherlands,Workday,Low,Chat,Feature request,Custom development,Specialists,B. Smith,Closed,46,21,2.9
+TKT-6528,2025-12-17,17,France,Workday,High,Portal,Bug report,Training services,Tier 2,I. Kowalski,Closed,9,4,3.6
+TKT-6529,2025-01-22,0,Belgium,Workday,Critical,Email,Pricing & licensing,Integrations,Tier 1,G. de Vries,Closed,77,15,4.3
+TKT-6530,2025-02-27,7,Netherlands,Workday,Low,Phone,Purchasing & invoicing,Other,Specialists,E. Müller,Closed,35,26,2.7
+TKT-6531,2025-03-05,14,United Kingdom,Workday,Medium,Chat,Product setup,Ready-to-use software,Tier 2,C. Chen,Open,48,29,
+TKT-6532,2025-04-10,21,Switzerland,Workday,High,Portal,Feature request,Custom development,Tier 1,A. Khan,Closed,11,20,4.1
+TKT-6533,2025-05-15,4,Germany,Workday,Critical,Email,Bug report,Training services,Specialists,H. Martin,Closed,24,3,4.8
+TKT-6534,2025-06-20,11,United Kingdom,Workday,Low,Phone,Pricing & licensing,Integrations,Tier 2,F. Rossi,Closed,37,14,3.2
+TKT-6535,2025-07-25,18,Austria,Workday,Medium,Chat,Purchasing & invoicing,Other,Tier 1,D. Garcia,Closed,50,25,3.9
+TKT-6536,2025-08-03,1,Germany,Weekend,High,Portal,Product setup,Ready-to-use software,Specialists,B. Smith,Closed,13,28,4.6
+TKT-6537,2025-09-08,8,Spain,Workday,Critical,Email,Feature request,Custom development,Tier 2,I. Kowalski,Closed,81,19,3
+TKT-6538,2025-10-13,15,Poland,Workday,Low,Phone,Bug report,Training services,Tier 1,G. de Vries,Open,39,30,
+TKT-6539,2025-11-18,22,Germany,Workday,Medium,Chat,Pricing & licensing,Integrations,Specialists,E. Müller,Open,52,13,
+TKT-6540,2025-12-23,5,Spain,Workday,High,Portal,Purchasing & invoicing,Other,Tier 2,C. Chen,Closed,15,24,2.8
+TKT-6541,2025-01-01,12,Netherlands,Workday,Critical,Email,Product setup,Ready-to-use software,Tier 1,A. Khan,Closed,28,27,3.5
+TKT-6542,2025-02-06,19,France,Workday,Low,Phone,Feature request,Custom development,Specialists,H. Martin,Closed,41,18,4.2
+TKT-6543,2025-03-11,2,Italy,Workday,Medium,Chat,Bug report,Training services,Tier 2,F. Rossi,Closed,54,29,4.9
+TKT-6544,2025-04-16,9,Netherlands,Workday,High,Portal,Pricing & licensing,Integrations,Tier 1,D. Garcia,Closed,17,12,3.3
+TKT-6545,2025-05-21,16,France,Workday,Low,Email,Purchasing & invoicing,Other,Specialists,B. Smith,Closed,85,23,4
+TKT-6546,2025-06-26,23,Italy,Workday,Medium,Phone,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Open,43,26,
+TKT-6547,2025-07-04,6,Netherlands,Workday,High,Chat,Feature request,Custom development,Tier 1,G. de Vries,Open,56,17,
+TKT-6548,2025-08-09,13,France,Weekend,Critical,Portal,Bug report,Training services,Specialists,E. Müller,Closed,19,28,3.8
+TKT-6549,2025-09-14,20,Belgium,Weekend,Low,Email,Pricing & licensing,Integrations,Tier 2,C. Chen,Closed,32,11,4.5
+TKT-6550,2025-10-19,3,Netherlands,Weekend,Medium,Phone,Purchasing & invoicing,Other,Tier 1,A. Khan,Closed,45,22,2.9
+TKT-6551,2025-11-24,10,United Kingdom,Workday,High,Chat,Product setup,Ready-to-use software,Specialists,H. Martin,Closed,8,25,3.6
+TKT-6552,2025-12-02,17,Switzerland,Workday,Critical,Portal,Feature request,Custom development,Tier 2,F. Rossi,Closed,21,16,4.3
+TKT-6553,2025-01-07,0,Germany,Workday,Low,Email,Bug report,Training services,Tier 1,D. Garcia,Closed,89,27,2.7
+TKT-6554,2025-02-12,7,United Kingdom,Workday,Medium,Phone,Pricing & licensing,Integrations,Specialists,B. Smith,Open,47,10,
+TKT-6555,2025-03-17,14,Austria,Workday,High,Chat,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Closed,10,21,4.1
+TKT-6556,2025-04-22,21,Germany,Workday,Critical,Portal,Product setup,Ready-to-use software,Tier 1,G. de Vries,Closed,23,24,4.8
+TKT-6557,2025-05-27,4,Spain,Workday,Low,Email,Feature request,Custom development,Specialists,E. Müller,Closed,36,15,3.2
+TKT-6558,2025-06-05,11,Poland,Workday,Medium,Phone,Bug report,Training services,Tier 2,C. Chen,Closed,49,26,3.9
+TKT-6559,2025-07-10,18,Germany,Workday,High,Chat,Pricing & licensing,Integrations,Tier 1,A. Khan,Closed,12,9,4.6
+TKT-6560,2025-08-15,1,Spain,Workday,Critical,Portal,Purchasing & invoicing,Other,Specialists,H. Martin,Closed,25,20,3
+TKT-6561,2025-09-20,8,Netherlands,Weekend,Low,Email,Product setup,Ready-to-use software,Tier 2,F. Rossi,Open,93,23,
+TKT-6562,2025-10-25,15,France,Weekend,High,Phone,Feature request,Custom development,Tier 1,D. Garcia,Open,51,14,
+TKT-6563,2025-11-03,22,Italy,Workday,Critical,Chat,Bug report,Training services,Specialists,B. Smith,Closed,14,25,2.8
+TKT-6564,2025-12-08,5,Netherlands,Workday,Low,Portal,Pricing & licensing,Integrations,Tier 2,I. Kowalski,Closed,27,8,3.5
+TKT-6565,2025-01-13,12,France,Workday,Medium,Email,Purchasing & invoicing,Other,Tier 1,G. de Vries,Closed,40,19,4.2
+TKT-6566,2025-02-18,19,Italy,Workday,High,Phone,Product setup,Ready-to-use software,Specialists,E. Müller,Closed,53,50,4.9
+TKT-6567,2025-03-23,2,Netherlands,Weekend,Critical,Chat,Feature request,Custom development,Tier 2,C. Chen,Closed,16,13,3.3
+TKT-6568,2025-04-01,9,France,Workday,Low,Portal,Bug report,Training services,Tier 1,A. Khan,Closed,29,24,4
+TKT-6569,2025-05-06,16,Belgium,Workday,Medium,Email,Pricing & licensing,Integrations,Specialists,H. Martin,Open,97,7,
+TKT-6570,2025-06-11,23,Netherlands,Workday,High,Phone,Purchasing & invoicing,Other,Tier 2,F. Rossi,Open,55,18,
+TKT-6571,2025-07-16,6,United Kingdom,Workday,Critical,Chat,Product setup,Ready-to-use software,Tier 1,D. Garcia,Closed,18,49,3.8
+TKT-6572,2025-08-21,13,Switzerland,Workday,Low,Portal,Feature request,Custom development,Specialists,B. Smith,Closed,31,12,4.5
+TKT-6573,2025-09-26,20,Germany,Workday,Medium,Email,Bug report,Training services,Tier 2,I. Kowalski,Closed,44,23,2.9
+TKT-6574,2025-10-04,3,United Kingdom,Weekend,High,Phone,Pricing & licensing,Integrations,Tier 1,G. de Vries,Closed,57,6,3.6
+TKT-6575,2025-11-09,10,Austria,Weekend,Critical,Chat,Purchasing & invoicing,Other,Specialists,E. Müller,Closed,20,17,4.3
+TKT-6576,2025-12-14,17,Germany,Weekend,Low,Portal,Product setup,Ready-to-use software,Tier 2,C. Chen,Closed,33,48,2.7
+TKT-6577,2025-01-19,0,Spain,Weekend,Medium,Email,Feature request,Custom development,Tier 1,A. Khan,Open,101,11,
+TKT-6578,2025-02-24,7,Poland,Workday,High,Phone,Bug report,Training services,Specialists,H. Martin,Closed,9,22,4.1
+TKT-6579,2025-03-02,14,Germany,Weekend,Low,Chat,Pricing & licensing,Integrations,Tier 2,F. Rossi,Closed,22,5,4.8
+TKT-6580,2025-04-07,21,Spain,Workday,Medium,Portal,Purchasing & invoicing,Other,Tier 1,D. Garcia,Closed,35,16,3.2
+TKT-6581,2025-05-12,4,Netherlands,Workday,High,Email,Product setup,Ready-to-use software,Specialists,B. Smith,Closed,48,47,3.9
+TKT-6582,2025-06-17,11,France,Workday,Critical,Phone,Feature request,Custom development,Tier 2,I. Kowalski,Closed,11,10,4.6
+TKT-6583,2025-07-22,18,Italy,Workday,Low,Chat,Bug report,Training services,Tier 1,G. de Vries,Closed,24,21,3
+TKT-6584,2025-08-27,1,Netherlands,Workday,Medium,Portal,Pricing & licensing,Integrations,Specialists,E. Müller,Open,37,4,
+TKT-6585,2025-09-05,8,France,Workday,High,Email,Purchasing & invoicing,Other,Tier 2,C. Chen,Open,105,15,
+TKT-6586,2025-10-10,15,Italy,Workday,Critical,Phone,Product setup,Ready-to-use software,Tier 1,A. Khan,Closed,13,46,2.8
+TKT-6587,2025-11-15,22,Netherlands,Weekend,Low,Chat,Feature request,Custom development,Specialists,H. Martin,Closed,26,9,3.5
+TKT-6588,2025-12-20,5,France,Weekend,Medium,Portal,Bug report,Training services,Tier 2,F. Rossi,Closed,39,20,4.2
+TKT-6589,2025-01-25,12,Belgium,Weekend,High,Email,Pricing & licensing,Integrations,Tier 1,D. Garcia,Closed,52,3,4.9
+TKT-6590,2025-02-03,19,Netherlands,Workday,Critical,Phone,Purchasing & invoicing,Other,Specialists,B. Smith,Closed,15,14,3.3
+TKT-6591,2025-03-08,2,United Kingdom,Weekend,Low,Chat,Product setup,Ready-to-use software,Tier 2,I. Kowalski,Closed,28,45,4
+TKT-6592,2025-04-13,9,Switzerland,Weekend,Medium,Portal,Feature request,Custom development,Tier 1,G. de Vries,Open,41,8,
+TKT-6593,2025-05-18,16,Germany,Weekend,High,Email,Bug report,Training services,Specialists,E. Müller,Open,109,19,
+TKT-6594,2025-06-23,23,United Kingdom,Workday,Critical,Phone,Pricing & licensing,Integrations,Tier 2,C. Chen,Closed,17,30,3.8
+TKT-6595,2025-07-01,6,Austria,Workday,Low,Chat,Purchasing & invoicing,Other,Tier 1,A. Khan,Closed,30,13,4.5
+TKT-6596,2025-08-06,13,Germany,Workday,High,Portal,Product setup,Ready-to-use software,Specialists,H. Martin,Closed,43,44,2.9
+TKT-6597,2025-09-11,20,Spain,Workday,Critical,Email,Feature request,Custom development,Tier 2,F. Rossi,Closed,56,7,3.6
+TKT-6598,2025-10-16,3,Poland,Workday,Low,Phone,Bug report,Training services,Tier 1,D. Garcia,Closed,19,18,4.3
+TKT-6599,2025-11-21,10,Germany,Workday,Medium,Chat,Pricing & licensing,Integrations,Specialists,B. Smith,Closed,32,29,2.7
+TKT-6600,2025-12-26,17,Spain,Workday,High,Portal,Purchasing & invoicing,Other,Tier 2,I. Kowalski,Open,45,12,

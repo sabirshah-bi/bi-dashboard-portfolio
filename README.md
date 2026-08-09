@@ -34,13 +34,19 @@ Combines regional filtering, demand forecasting, supplier composite scoring, inv
 
 A reference-inspired support dashboard covering the ticket funnel, SLA attainment, CSAT, day type, issue topics, product groups, hourly patterns, and regional workload.
 
+### 6. Telecom Management Dashboard
+
+[![Telecom Management Dashboard](telecom-management-dashboard/dashboard-preview.png)](telecom-management-dashboard/)
+
+Tracks subscriber growth, churn, service utilization, plan mix, CAPEX efficiency, revenue, and gross-versus-net additions through an executive telecom scorecard.
+
 ## Skills demonstrated
 
 - Advanced Excel dashboards and native charts
 - Formula-driven KPI calculations and scenario analysis
 - SQL aggregation, segmentation, and exception reporting
 - Multi-table data modeling and forecast analysis
-- Supplier, inventory, workforce, customer, and service analytics
+- Telecom, supplier, inventory, workforce, customer, and service analytics
 - Data quality and KPI documentation
 - Executive reporting and business storytelling
 

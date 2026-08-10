@@ -1,0 +1,501 @@
+Ticket_ID,Month,Status,Service_Type,Region,Priority,Issue_Type,Response_Hours,Resolution_Hours,Customer_Rating,Channel,Technician
+TS-8001,Jan,Open,Broadband,North,Low,Slow Internet,1.2,8,2.5,App,Tech 1
+TS-8002,Feb,Resolved,Landline,South,Medium,Service Outage,2.5,9.7,3.6,Retail,Tech 8
+TS-8003,Mar,In Progress,TV,East,High,Dropped Calls,5.8,19.4,4.7,Phone,Tech 15
+TS-8004,Apr,Open,Mobile,West,Low,Billing Error,5.1,13.1,3.3,Web,Tech 4
+TS-8005,May,Resolved,Broadband,North,Medium,No Signal,6.4,14.8,4.4,App,Tech 11
+TS-8006,Jun,In Progress,Landline,South,High,Installation Delay,9.7,24.5,3,Retail,Tech 18
+TS-8007,Jul,Open,TV,East,Low,Slow Internet,9,18.2,4.1,Phone,Tech 7
+TS-8008,Aug,Resolved,Mobile,West,Medium,Service Outage,10.299999999999999,19.9,2.7,Web,Tech 14
+TS-8009,Sep,In Progress,Broadband,North,High,Dropped Calls,13.6,29.6,3.8,App,Tech 3
+TS-8010,Oct,Open,Landline,South,Low,Billing Error,12.899999999999999,23.3,4.9,Retail,Tech 10
+TS-8011,Nov,Resolved,TV,East,Medium,No Signal,14.2,25,3.5,Phone,Tech 17
+TS-8012,Dec,In Progress,Mobile,West,High,Installation Delay,17.5,34.7,4.6,Web,Tech 6
+TS-8013,Jan,Open,Broadband,North,Low,Slow Internet,16.8,28.4,3.2,App,Tech 13
+TS-8014,Feb,Resolved,Landline,South,Medium,Service Outage,18.099999999999998,30.1,4.3,Retail,Tech 2
+TS-8015,Mar,In Progress,TV,East,High,Dropped Calls,21.4,39.8,2.9,Phone,Tech 9
+TS-8016,Apr,Open,Mobile,West,Low,Billing Error,20.7,33.5,4,Web,Tech 16
+TS-8017,May,Resolved,Broadband,North,Medium,No Signal,22,35.2,2.6,App,Tech 5
+TS-8018,Jun,In Progress,Landline,South,High,Installation Delay,4.3,44.9,3.7,Retail,Tech 12
+TS-8019,Jul,Open,TV,East,Low,Slow Internet,3.5999999999999996,38.6,4.8,Phone,Tech 1
+TS-8020,Aug,Open,Mobile,West,Medium,Service Outage,4.9,40.3,3.4,Web,Tech 8
+TS-8021,Sep,Resolved,Broadband,North,High,Dropped Calls,8.2,50,4.5,App,Tech 15
+TS-8022,Oct,In Progress,Landline,South,Low,Billing Error,7.5,43.7,3.1,Retail,Tech 4
+TS-8023,Nov,Open,TV,East,Medium,No Signal,8.799999999999999,45.4,4.2,Phone,Tech 11
+TS-8024,Dec,Resolved,Mobile,West,High,Installation Delay,12.1,55.1,2.8,Web,Tech 18
+TS-8025,Jan,In Progress,Broadband,North,Low,Slow Internet,11.399999999999999,48.8,3.9,App,Tech 7
+TS-8026,Feb,Open,Landline,South,Medium,Service Outage,12.7,50.5,2.5,Retail,Tech 14
+TS-8027,Mar,Resolved,TV,East,High,Dropped Calls,16,60.2,3.6,Phone,Tech 3
+TS-8028,Apr,In Progress,Mobile,West,Low,Billing Error,15.299999999999999,53.9,4.7,Web,Tech 10
+TS-8029,May,Open,Broadband,North,Medium,No Signal,16.6,55.6,3.3,App,Tech 17
+TS-8030,Jun,Resolved,Landline,South,High,Installation Delay,19.9,65.3,4.4,Retail,Tech 6
+TS-8031,Jul,In Progress,TV,East,Low,Slow Internet,19.2,59,3,Phone,Tech 13
+TS-8032,Aug,Open,Mobile,West,Medium,Service Outage,20.5,60.7,4.1,Web,Tech 2
+TS-8033,Sep,Resolved,Broadband,North,High,Dropped Calls,23.8,70.4,2.7,App,Tech 9
+TS-8034,Oct,In Progress,Landline,South,Low,Billing Error,2.1,64.1,3.8,Retail,Tech 16
+TS-8035,Nov,Open,TV,East,Medium,No Signal,3.4000000000000004,65.8,4.9,Phone,Tech 5
+TS-8036,Dec,Resolved,Mobile,West,High,Installation Delay,6.7,75.5,3.5,Web,Tech 12
+TS-8037,Jan,In Progress,Broadband,North,Low,Slow Internet,6,69.2,4.6,App,Tech 1
+TS-8038,Feb,Open,Landline,South,Medium,Service Outage,7.3,70.9,3.2,Retail,Tech 8
+TS-8039,Mar,Open,TV,East,High,Dropped Calls,10.6,80.6,4.3,Phone,Tech 15
+TS-8040,Apr,Resolved,Mobile,West,Low,Billing Error,9.899999999999999,74.3,2.9,Web,Tech 4
+TS-8041,May,In Progress,Broadband,North,Medium,No Signal,11.2,76,4,App,Tech 11
+TS-8042,Jun,Open,Landline,South,High,Installation Delay,14.5,85.7,2.6,Retail,Tech 18
+TS-8043,Jul,Resolved,TV,East,Low,Slow Internet,13.799999999999999,79.4,3.7,Phone,Tech 7
+TS-8044,Aug,In Progress,Mobile,West,Medium,Service Outage,15.1,81.1,4.8,Web,Tech 14
+TS-8045,Sep,Open,Broadband,North,High,Dropped Calls,18.4,90.8,3.4,App,Tech 3
+TS-8046,Oct,Resolved,Landline,South,Low,Billing Error,17.7,84.5,4.5,Retail,Tech 10
+TS-8047,Nov,In Progress,TV,East,Medium,No Signal,19,86.2,3.1,Phone,Tech 17
+TS-8048,Dec,Open,Mobile,West,High,Installation Delay,22.3,95.9,4.2,Web,Tech 6
+TS-8049,Jan,Resolved,Broadband,North,Low,Slow Internet,21.599999999999998,89.6,2.8,App,Tech 13
+TS-8050,Feb,In Progress,Landline,South,Medium,Service Outage,1.9,91.3,3.9,Retail,Tech 2
+TS-8051,Mar,Open,TV,East,High,Dropped Calls,5.2,101,2.5,Phone,Tech 9
+TS-8052,Apr,Resolved,Mobile,West,Low,Billing Error,4.5,94.7,3.6,Web,Tech 16
+TS-8053,May,In Progress,Broadband,North,Medium,No Signal,5.8,96.4,4.7,App,Tech 5
+TS-8054,Jun,Open,Landline,South,High,Installation Delay,9.100000000000001,106.1,3.3,Retail,Tech 12
+TS-8055,Jul,Resolved,TV,East,Low,Slow Internet,8.4,99.8,4.4,Phone,Tech 1
+TS-8056,Aug,In Progress,Mobile,West,Medium,Service Outage,9.7,101.5,3,Web,Tech 8
+TS-8057,Sep,Open,Broadband,North,High,Dropped Calls,13,111.2,4.1,App,Tech 15
+TS-8058,Oct,Open,Landline,South,Low,Billing Error,12.299999999999999,8.9,2.7,Retail,Tech 4
+TS-8059,Nov,Resolved,TV,East,Medium,No Signal,13.6,10.6,3.8,Phone,Tech 11
+TS-8060,Dec,In Progress,Mobile,West,High,Installation Delay,16.9,20.3,4.9,Web,Tech 18
+TS-8061,Jan,Open,Broadband,North,Low,Slow Internet,16.2,14,3.5,App,Tech 7
+TS-8062,Feb,Resolved,Landline,South,Medium,Service Outage,17.5,15.7,4.6,Retail,Tech 14
+TS-8063,Mar,In Progress,TV,East,High,Dropped Calls,20.8,25.4,3.2,Phone,Tech 3
+TS-8064,Apr,Open,Mobile,West,Low,Billing Error,20.099999999999998,19.1,4.3,Web,Tech 10
+TS-8065,May,Resolved,Broadband,North,Medium,No Signal,21.4,20.8,2.9,App,Tech 17
+TS-8066,Jun,In Progress,Landline,South,High,Installation Delay,3.7,30.5,4,Retail,Tech 6
+TS-8067,Jul,Open,TV,East,Low,Slow Internet,3,24.2,2.6,Phone,Tech 13
+TS-8068,Aug,Resolved,Mobile,West,Medium,Service Outage,4.3,25.9,3.7,Web,Tech 2
+TS-8069,Sep,In Progress,Broadband,North,High,Dropped Calls,7.6000000000000005,35.6,4.8,App,Tech 9
+TS-8070,Oct,Open,Landline,South,Low,Billing Error,6.9,29.3,3.4,Retail,Tech 16
+TS-8071,Nov,Resolved,TV,East,Medium,No Signal,8.2,31,4.5,Phone,Tech 5
+TS-8072,Dec,In Progress,Mobile,West,High,Installation Delay,11.5,40.7,3.1,Web,Tech 12
+TS-8073,Jan,Open,Broadband,North,Low,Slow Internet,10.799999999999999,34.4,4.2,App,Tech 1
+TS-8074,Feb,Resolved,Landline,South,Medium,Service Outage,12.1,36.1,2.8,Retail,Tech 8
+TS-8075,Mar,In Progress,TV,East,High,Dropped Calls,15.399999999999999,45.8,3.9,Phone,Tech 15
+TS-8076,Apr,Open,Mobile,West,Low,Billing Error,14.7,39.5,2.5,Web,Tech 4
+TS-8077,May,Open,Broadband,North,Medium,No Signal,16,41.2,3.6,App,Tech 11
+TS-8078,Jun,Resolved,Landline,South,High,Installation Delay,19.3,50.9,4.7,Retail,Tech 18
+TS-8079,Jul,In Progress,TV,East,Low,Slow Internet,18.599999999999998,44.6,3.3,Phone,Tech 7
+TS-8080,Aug,Open,Mobile,West,Medium,Service Outage,19.9,46.3,4.4,Web,Tech 14
+TS-8081,Sep,Resolved,Broadband,North,High,Dropped Calls,23.2,56,3,App,Tech 3
+TS-8082,Oct,In Progress,Landline,South,Low,Billing Error,1.5,49.7,4.1,Retail,Tech 10
+TS-8083,Nov,Open,TV,East,Medium,No Signal,2.8,51.4,2.7,Phone,Tech 17
+TS-8084,Dec,Resolved,Mobile,West,High,Installation Delay,6.1,61.1,3.8,Web,Tech 6
+TS-8085,Jan,In Progress,Broadband,North,Low,Slow Internet,5.4,54.8,4.9,App,Tech 13
+TS-8086,Feb,Open,Landline,South,Medium,Service Outage,6.7,56.5,3.5,Retail,Tech 2
+TS-8087,Mar,Resolved,TV,East,High,Dropped Calls,10,66.2,4.6,Phone,Tech 9
+TS-8088,Apr,In Progress,Mobile,West,Low,Billing Error,9.299999999999999,59.9,3.2,Web,Tech 16
+TS-8089,May,Open,Broadband,North,Medium,No Signal,10.6,61.6,4.3,App,Tech 5
+TS-8090,Jun,Resolved,Landline,South,High,Installation Delay,13.899999999999999,71.3,2.9,Retail,Tech 12
+TS-8091,Jul,In Progress,TV,East,Low,Slow Internet,13.2,65,4,Phone,Tech 1
+TS-8092,Aug,Open,Mobile,West,Medium,Service Outage,14.5,66.7,2.6,Web,Tech 8
+TS-8093,Sep,Resolved,Broadband,North,High,Dropped Calls,17.799999999999997,76.4,3.7,App,Tech 15
+TS-8094,Oct,In Progress,Landline,South,Low,Billing Error,17.1,70.1,4.8,Retail,Tech 4
+TS-8095,Nov,Open,TV,East,Medium,No Signal,18.4,71.8,3.4,Phone,Tech 11
+TS-8096,Dec,Open,Mobile,West,High,Installation Delay,21.7,81.5,4.5,Web,Tech 18
+TS-8097,Jan,Resolved,Broadband,North,Low,Slow Internet,21,75.2,3.1,App,Tech 7
+TS-8098,Feb,In Progress,Landline,South,Medium,Service Outage,1.3,76.9,4.2,Retail,Tech 14
+TS-8099,Mar,Open,TV,East,High,Dropped Calls,4.6,86.6,2.8,Phone,Tech 3
+TS-8100,Apr,Resolved,Mobile,West,Low,Billing Error,3.9000000000000004,80.3,3.9,Web,Tech 10
+TS-8101,May,In Progress,Broadband,North,Medium,No Signal,5.2,82,2.5,App,Tech 17
+TS-8102,Jun,Open,Landline,South,High,Installation Delay,8.5,91.7,3.6,Retail,Tech 6
+TS-8103,Jul,Resolved,TV,East,Low,Slow Internet,7.8,85.4,4.7,Phone,Tech 13
+TS-8104,Aug,In Progress,Mobile,West,Medium,Service Outage,9.1,87.1,3.3,Web,Tech 2
+TS-8105,Sep,Open,Broadband,North,High,Dropped Calls,12.399999999999999,96.8,4.4,App,Tech 9
+TS-8106,Oct,Resolved,Landline,South,Low,Billing Error,11.7,90.5,3,Retail,Tech 16
+TS-8107,Nov,In Progress,TV,East,Medium,No Signal,13,92.2,4.1,Phone,Tech 5
+TS-8108,Dec,Open,Mobile,West,High,Installation Delay,16.299999999999997,101.9,2.7,Web,Tech 12
+TS-8109,Jan,Resolved,Broadband,North,Low,Slow Internet,15.6,95.6,3.8,App,Tech 1
+TS-8110,Feb,In Progress,Landline,South,Medium,Service Outage,16.9,97.3,4.9,Retail,Tech 8
+TS-8111,Mar,Open,TV,East,High,Dropped Calls,20.2,107,3.5,Phone,Tech 15
+TS-8112,Apr,Resolved,Mobile,West,Low,Billing Error,19.5,100.7,4.6,Web,Tech 4
+TS-8113,May,In Progress,Broadband,North,Medium,No Signal,20.8,102.4,3.2,App,Tech 11
+TS-8114,Jun,Open,Landline,South,High,Installation Delay,24.099999999999998,16.1,4.3,Retail,Tech 18
+TS-8115,Jul,Open,TV,East,Low,Slow Internet,2.4,9.8,2.9,Phone,Tech 7
+TS-8116,Aug,Resolved,Mobile,West,Medium,Service Outage,3.7,11.5,4,Web,Tech 14
+TS-8117,Sep,In Progress,Broadband,North,High,Dropped Calls,7,21.2,2.6,App,Tech 3
+TS-8118,Oct,Open,Landline,South,Low,Billing Error,6.3,14.9,3.7,Retail,Tech 10
+TS-8119,Nov,Resolved,TV,East,Medium,No Signal,7.6000000000000005,16.6,4.8,Phone,Tech 17
+TS-8120,Dec,In Progress,Mobile,West,High,Installation Delay,10.9,26.3,3.4,Web,Tech 6
+TS-8121,Jan,Open,Broadband,North,Low,Slow Internet,10.2,20,4.5,App,Tech 13
+TS-8122,Feb,Resolved,Landline,South,Medium,Service Outage,11.5,21.7,3.1,Retail,Tech 2
+TS-8123,Mar,In Progress,TV,East,High,Dropped Calls,14.799999999999999,31.4,4.2,Phone,Tech 9
+TS-8124,Apr,Open,Mobile,West,Low,Billing Error,14.1,25.1,2.8,Web,Tech 16
+TS-8125,May,Resolved,Broadband,North,Medium,No Signal,15.399999999999999,26.8,3.9,App,Tech 5
+TS-8126,Jun,In Progress,Landline,South,High,Installation Delay,18.7,36.5,2.5,Retail,Tech 12
+TS-8127,Jul,Open,TV,East,Low,Slow Internet,18,30.2,3.6,Phone,Tech 1
+TS-8128,Aug,Resolved,Mobile,West,Medium,Service Outage,19.3,31.9,4.7,Web,Tech 8
+TS-8129,Sep,In Progress,Broadband,North,High,Dropped Calls,22.599999999999998,41.6,3.3,App,Tech 15
+TS-8130,Oct,Open,Landline,South,Low,Billing Error,21.9,35.3,4.4,Retail,Tech 4
+TS-8131,Nov,Resolved,TV,East,Medium,No Signal,2.2,37,3,Phone,Tech 11
+TS-8132,Dec,In Progress,Mobile,West,High,Installation Delay,5.5,46.7,4.1,Web,Tech 18
+TS-8133,Jan,Open,Broadband,North,Low,Slow Internet,4.8,40.4,2.7,App,Tech 7
+TS-8134,Feb,Open,Landline,South,Medium,Service Outage,6.1000000000000005,42.1,3.8,Retail,Tech 14
+TS-8135,Mar,Resolved,TV,East,High,Dropped Calls,9.4,51.8,4.9,Phone,Tech 3
+TS-8136,Apr,In Progress,Mobile,West,Low,Billing Error,8.7,45.5,3.5,Web,Tech 10
+TS-8137,May,Open,Broadband,North,Medium,No Signal,10,47.2,4.6,App,Tech 17
+TS-8138,Jun,Resolved,Landline,South,High,Installation Delay,13.299999999999999,56.9,3.2,Retail,Tech 6
+TS-8139,Jul,In Progress,TV,East,Low,Slow Internet,12.6,50.6,4.3,Phone,Tech 13
+TS-8140,Aug,Open,Mobile,West,Medium,Service Outage,13.899999999999999,52.3,2.9,Web,Tech 2
+TS-8141,Sep,Resolved,Broadband,North,High,Dropped Calls,17.2,62,4,App,Tech 9
+TS-8142,Oct,In Progress,Landline,South,Low,Billing Error,16.5,55.7,2.6,Retail,Tech 16
+TS-8143,Nov,Open,TV,East,Medium,No Signal,17.8,57.4,3.7,Phone,Tech 5
+TS-8144,Dec,Resolved,Mobile,West,High,Installation Delay,21.099999999999998,67.1,4.8,Web,Tech 12
+TS-8145,Jan,In Progress,Broadband,North,Low,Slow Internet,20.4,60.8,3.4,App,Tech 1
+TS-8146,Feb,Open,Landline,South,Medium,Service Outage,21.7,62.5,4.5,Retail,Tech 8
+TS-8147,Mar,Resolved,TV,East,High,Dropped Calls,4,72.2,3.1,Phone,Tech 15
+TS-8148,Apr,In Progress,Mobile,West,Low,Billing Error,3.3,65.9,4.2,Web,Tech 4
+TS-8149,May,Open,Broadband,North,Medium,No Signal,4.6,67.6,2.8,App,Tech 11
+TS-8150,Jun,Resolved,Landline,South,High,Installation Delay,7.9,77.3,3.9,Retail,Tech 18
+TS-8151,Jul,In Progress,TV,East,Low,Slow Internet,7.2,71,2.5,Phone,Tech 7
+TS-8152,Aug,Open,Mobile,West,Medium,Service Outage,8.5,72.7,3.6,Web,Tech 14
+TS-8153,Sep,Open,Broadband,North,High,Dropped Calls,11.799999999999999,82.4,4.7,App,Tech 3
+TS-8154,Oct,Resolved,Landline,South,Low,Billing Error,11.1,76.1,3.3,Retail,Tech 10
+TS-8155,Nov,In Progress,TV,East,Medium,No Signal,12.399999999999999,77.8,4.4,Phone,Tech 17
+TS-8156,Dec,Open,Mobile,West,High,Installation Delay,15.7,87.5,3,Web,Tech 6
+TS-8157,Jan,Resolved,Broadband,North,Low,Slow Internet,15,81.2,4.1,App,Tech 13
+TS-8158,Feb,In Progress,Landline,South,Medium,Service Outage,16.3,82.9,2.7,Retail,Tech 2
+TS-8159,Mar,Open,TV,East,High,Dropped Calls,19.599999999999998,92.6,3.8,Phone,Tech 9
+TS-8160,Apr,Resolved,Mobile,West,Low,Billing Error,18.9,86.3,4.9,Web,Tech 16
+TS-8161,May,In Progress,Broadband,North,Medium,No Signal,20.2,88,3.5,App,Tech 5
+TS-8162,Jun,Open,Landline,South,High,Installation Delay,23.5,97.7,4.6,Retail,Tech 12
+TS-8163,Jul,Resolved,TV,East,Low,Slow Internet,1.7999999999999998,91.4,3.2,Phone,Tech 1
+TS-8164,Aug,In Progress,Mobile,West,Medium,Service Outage,3.0999999999999996,93.1,4.3,Web,Tech 8
+TS-8165,Sep,Open,Broadband,North,High,Dropped Calls,6.4,102.8,2.9,App,Tech 15
+TS-8166,Oct,Resolved,Landline,South,Low,Billing Error,5.7,96.5,4,Retail,Tech 4
+TS-8167,Nov,In Progress,TV,East,Medium,No Signal,7,98.2,2.6,Phone,Tech 11
+TS-8168,Dec,Open,Mobile,West,High,Installation Delay,10.299999999999999,107.9,3.7,Web,Tech 18
+TS-8169,Jan,Resolved,Broadband,North,Low,Slow Internet,9.6,101.6,4.8,App,Tech 7
+TS-8170,Feb,In Progress,Landline,South,Medium,Service Outage,10.899999999999999,103.3,3.4,Retail,Tech 14
+TS-8171,Mar,Open,TV,East,High,Dropped Calls,14.2,17,4.5,Phone,Tech 3
+TS-8172,Apr,Open,Mobile,West,Low,Billing Error,13.5,10.7,3.1,Web,Tech 10
+TS-8173,May,Resolved,Broadband,North,Medium,No Signal,14.799999999999999,12.4,4.2,App,Tech 17
+TS-8174,Jun,In Progress,Landline,South,High,Installation Delay,18.1,22.1,2.8,Retail,Tech 6
+TS-8175,Jul,Open,TV,East,Low,Slow Internet,17.4,15.8,3.9,Phone,Tech 13
+TS-8176,Aug,Resolved,Mobile,West,Medium,Service Outage,18.7,17.5,2.5,Web,Tech 2
+TS-8177,Sep,In Progress,Broadband,North,High,Dropped Calls,22,27.2,3.6,App,Tech 9
+TS-8178,Oct,Open,Landline,South,Low,Billing Error,21.3,20.9,4.7,Retail,Tech 16
+TS-8179,Nov,Resolved,TV,East,Medium,No Signal,1.6,22.6,3.3,Phone,Tech 5
+TS-8180,Dec,In Progress,Mobile,West,High,Installation Delay,4.9,32.3,4.4,Web,Tech 12
+TS-8181,Jan,Open,Broadband,North,Low,Slow Internet,4.2,26,3,App,Tech 1
+TS-8182,Feb,Resolved,Landline,South,Medium,Service Outage,5.5,27.7,4.1,Retail,Tech 8
+TS-8183,Mar,In Progress,TV,East,High,Dropped Calls,8.8,37.4,2.7,Phone,Tech 15
+TS-8184,Apr,Open,Mobile,West,Low,Billing Error,8.1,31.1,3.8,Web,Tech 4
+TS-8185,May,Resolved,Broadband,North,Medium,No Signal,9.399999999999999,32.8,4.9,App,Tech 11
+TS-8186,Jun,In Progress,Landline,South,High,Installation Delay,12.7,42.5,3.5,Retail,Tech 18
+TS-8187,Jul,Open,TV,East,Low,Slow Internet,12,36.2,4.6,Phone,Tech 7
+TS-8188,Aug,Resolved,Mobile,West,Medium,Service Outage,13.299999999999999,37.9,3.2,Web,Tech 14
+TS-8189,Sep,In Progress,Broadband,North,High,Dropped Calls,16.6,47.6,4.3,App,Tech 3
+TS-8190,Oct,Open,Landline,South,Low,Billing Error,15.899999999999999,41.3,2.9,Retail,Tech 10
+TS-8191,Nov,Open,TV,East,Medium,No Signal,17.2,43,4,Phone,Tech 17
+TS-8192,Dec,Resolved,Mobile,West,High,Installation Delay,20.5,52.7,2.6,Web,Tech 6
+TS-8193,Jan,In Progress,Broadband,North,Low,Slow Internet,19.8,46.4,3.7,App,Tech 13
+TS-8194,Feb,Open,Landline,South,Medium,Service Outage,21.099999999999998,48.1,4.8,Retail,Tech 2
+TS-8195,Mar,Resolved,TV,East,High,Dropped Calls,3.4,57.8,3.4,Phone,Tech 9
+TS-8196,Apr,In Progress,Mobile,West,Low,Billing Error,2.7,51.5,4.5,Web,Tech 16
+TS-8197,May,Open,Broadband,North,Medium,No Signal,4,53.2,3.1,App,Tech 5
+TS-8198,Jun,Resolved,Landline,South,High,Installation Delay,7.3,62.9,4.2,Retail,Tech 12
+TS-8199,Jul,In Progress,TV,East,Low,Slow Internet,6.6000000000000005,56.6,2.8,Phone,Tech 1
+TS-8200,Aug,Open,Mobile,West,Medium,Service Outage,7.9,58.3,3.9,Web,Tech 8
+TS-8201,Sep,Resolved,Broadband,North,High,Dropped Calls,11.2,68,2.5,App,Tech 15
+TS-8202,Oct,In Progress,Landline,South,Low,Billing Error,10.5,61.7,3.6,Retail,Tech 4
+TS-8203,Nov,Open,TV,East,Medium,No Signal,11.799999999999999,63.4,4.7,Phone,Tech 11
+TS-8204,Dec,Resolved,Mobile,West,High,Installation Delay,15.1,73.1,3.3,Web,Tech 18
+TS-8205,Jan,In Progress,Broadband,North,Low,Slow Internet,14.399999999999999,66.8,4.4,App,Tech 7
+TS-8206,Feb,Open,Landline,South,Medium,Service Outage,15.7,68.5,3,Retail,Tech 14
+TS-8207,Mar,Resolved,TV,East,High,Dropped Calls,19,78.2,4.1,Phone,Tech 3
+TS-8208,Apr,In Progress,Mobile,West,Low,Billing Error,18.3,71.9,2.7,Web,Tech 10
+TS-8209,May,Open,Broadband,North,Medium,No Signal,19.599999999999998,73.6,3.8,App,Tech 17
+TS-8210,Jun,Open,Landline,South,High,Installation Delay,22.9,83.3,4.9,Retail,Tech 6
+TS-8211,Jul,Resolved,TV,East,Low,Slow Internet,1.2,77,3.5,Phone,Tech 13
+TS-8212,Aug,In Progress,Mobile,West,Medium,Service Outage,2.5,78.7,4.6,Web,Tech 2
+TS-8213,Sep,Open,Broadband,North,High,Dropped Calls,5.8,88.4,3.2,App,Tech 9
+TS-8214,Oct,Resolved,Landline,South,Low,Billing Error,5.1,82.1,4.3,Retail,Tech 16
+TS-8215,Nov,In Progress,TV,East,Medium,No Signal,6.4,83.8,2.9,Phone,Tech 5
+TS-8216,Dec,Open,Mobile,West,High,Installation Delay,9.7,93.5,4,Web,Tech 12
+TS-8217,Jan,Resolved,Broadband,North,Low,Slow Internet,9,87.2,2.6,App,Tech 1
+TS-8218,Feb,In Progress,Landline,South,Medium,Service Outage,10.299999999999999,88.9,3.7,Retail,Tech 8
+TS-8219,Mar,Open,TV,East,High,Dropped Calls,13.6,98.6,4.8,Phone,Tech 15
+TS-8220,Apr,Resolved,Mobile,West,Low,Billing Error,12.899999999999999,92.3,3.4,Web,Tech 4
+TS-8221,May,In Progress,Broadband,North,Medium,No Signal,14.2,94,4.5,App,Tech 11
+TS-8222,Jun,Open,Landline,South,High,Installation Delay,17.5,103.7,3.1,Retail,Tech 18
+TS-8223,Jul,Resolved,TV,East,Low,Slow Internet,16.8,97.4,4.2,Phone,Tech 7
+TS-8224,Aug,In Progress,Mobile,West,Medium,Service Outage,18.099999999999998,99.1,2.8,Web,Tech 14
+TS-8225,Sep,Open,Broadband,North,High,Dropped Calls,21.4,108.8,3.9,App,Tech 3
+TS-8226,Oct,Resolved,Landline,South,Low,Billing Error,20.7,102.5,2.5,Retail,Tech 10
+TS-8227,Nov,In Progress,TV,East,Medium,No Signal,22,8.2,3.6,Phone,Tech 17
+TS-8228,Dec,Open,Mobile,West,High,Installation Delay,4.3,17.9,4.7,Web,Tech 6
+TS-8229,Jan,Open,Broadband,North,Low,Slow Internet,3.5999999999999996,11.6,3.3,App,Tech 13
+TS-8230,Feb,Resolved,Landline,South,Medium,Service Outage,4.9,13.3,4.4,Retail,Tech 2
+TS-8231,Mar,In Progress,TV,East,High,Dropped Calls,8.2,23,3,Phone,Tech 9
+TS-8232,Apr,Open,Mobile,West,Low,Billing Error,7.5,16.7,4.1,Web,Tech 16
+TS-8233,May,Resolved,Broadband,North,Medium,No Signal,8.799999999999999,18.4,2.7,App,Tech 5
+TS-8234,Jun,In Progress,Landline,South,High,Installation Delay,12.1,28.1,3.8,Retail,Tech 12
+TS-8235,Jul,Open,TV,East,Low,Slow Internet,11.399999999999999,21.8,4.9,Phone,Tech 1
+TS-8236,Aug,Resolved,Mobile,West,Medium,Service Outage,12.7,23.5,3.5,Web,Tech 8
+TS-8237,Sep,In Progress,Broadband,North,High,Dropped Calls,16,33.2,4.6,App,Tech 15
+TS-8238,Oct,Open,Landline,South,Low,Billing Error,15.299999999999999,26.9,3.2,Retail,Tech 4
+TS-8239,Nov,Resolved,TV,East,Medium,No Signal,16.6,28.6,4.3,Phone,Tech 11
+TS-8240,Dec,In Progress,Mobile,West,High,Installation Delay,19.9,38.3,2.9,Web,Tech 18
+TS-8241,Jan,Open,Broadband,North,Low,Slow Internet,19.2,32,4,App,Tech 7
+TS-8242,Feb,Resolved,Landline,South,Medium,Service Outage,20.5,33.7,2.6,Retail,Tech 14
+TS-8243,Mar,In Progress,TV,East,High,Dropped Calls,23.8,43.4,3.7,Phone,Tech 3
+TS-8244,Apr,Open,Mobile,West,Low,Billing Error,2.1,37.1,4.8,Web,Tech 10
+TS-8245,May,Resolved,Broadband,North,Medium,No Signal,3.4000000000000004,38.8,3.4,App,Tech 17
+TS-8246,Jun,In Progress,Landline,South,High,Installation Delay,6.7,48.5,4.5,Retail,Tech 6
+TS-8247,Jul,Open,TV,East,Low,Slow Internet,6,42.2,3.1,Phone,Tech 13
+TS-8248,Aug,Open,Mobile,West,Medium,Service Outage,7.3,43.9,4.2,Web,Tech 2
+TS-8249,Sep,Resolved,Broadband,North,High,Dropped Calls,10.6,53.6,2.8,App,Tech 9
+TS-8250,Oct,In Progress,Landline,South,Low,Billing Error,9.899999999999999,47.3,3.9,Retail,Tech 16
+TS-8251,Nov,Open,TV,East,Medium,No Signal,11.2,49,2.5,Phone,Tech 5
+TS-8252,Dec,Resolved,Mobile,West,High,Installation Delay,14.5,58.7,3.6,Web,Tech 12
+TS-8253,Jan,In Progress,Broadband,North,Low,Slow Internet,13.799999999999999,52.4,4.7,App,Tech 1
+TS-8254,Feb,Open,Landline,South,Medium,Service Outage,15.1,54.1,3.3,Retail,Tech 8
+TS-8255,Mar,Resolved,TV,East,High,Dropped Calls,18.4,63.8,4.4,Phone,Tech 15
+TS-8256,Apr,In Progress,Mobile,West,Low,Billing Error,17.7,57.5,3,Web,Tech 4
+TS-8257,May,Open,Broadband,North,Medium,No Signal,19,59.2,4.1,App,Tech 11
+TS-8258,Jun,Resolved,Landline,South,High,Installation Delay,22.3,68.9,2.7,Retail,Tech 18
+TS-8259,Jul,In Progress,TV,East,Low,Slow Internet,21.599999999999998,62.6,3.8,Phone,Tech 7
+TS-8260,Aug,Open,Mobile,West,Medium,Service Outage,1.9,64.3,4.9,Web,Tech 14
+TS-8261,Sep,Resolved,Broadband,North,High,Dropped Calls,5.2,74,3.5,App,Tech 3
+TS-8262,Oct,In Progress,Landline,South,Low,Billing Error,4.5,67.7,4.6,Retail,Tech 10
+TS-8263,Nov,Open,TV,East,Medium,No Signal,5.8,69.4,3.2,Phone,Tech 17
+TS-8264,Dec,Resolved,Mobile,West,High,Installation Delay,9.100000000000001,79.1,4.3,Web,Tech 6
+TS-8265,Jan,In Progress,Broadband,North,Low,Slow Internet,8.4,72.8,2.9,App,Tech 13
+TS-8266,Feb,Open,Landline,South,Medium,Service Outage,9.7,74.5,4,Retail,Tech 2
+TS-8267,Mar,Open,TV,East,High,Dropped Calls,13,84.2,2.6,Phone,Tech 9
+TS-8268,Apr,Resolved,Mobile,West,Low,Billing Error,12.299999999999999,77.9,3.7,Web,Tech 16
+TS-8269,May,In Progress,Broadband,North,Medium,No Signal,13.6,79.6,4.8,App,Tech 5
+TS-8270,Jun,Open,Landline,South,High,Installation Delay,16.9,89.3,3.4,Retail,Tech 12
+TS-8271,Jul,Resolved,TV,East,Low,Slow Internet,16.2,83,4.5,Phone,Tech 1
+TS-8272,Aug,In Progress,Mobile,West,Medium,Service Outage,17.5,84.7,3.1,Web,Tech 8
+TS-8273,Sep,Open,Broadband,North,High,Dropped Calls,20.8,94.4,4.2,App,Tech 15
+TS-8274,Oct,Resolved,Landline,South,Low,Billing Error,20.099999999999998,88.1,2.8,Retail,Tech 4
+TS-8275,Nov,In Progress,TV,East,Medium,No Signal,21.4,89.8,3.9,Phone,Tech 11
+TS-8276,Dec,Open,Mobile,West,High,Installation Delay,3.7,99.5,2.5,Web,Tech 18
+TS-8277,Jan,Resolved,Broadband,North,Low,Slow Internet,3,93.2,3.6,App,Tech 7
+TS-8278,Feb,In Progress,Landline,South,Medium,Service Outage,4.3,94.9,4.7,Retail,Tech 14
+TS-8279,Mar,Open,TV,East,High,Dropped Calls,7.6000000000000005,104.6,3.3,Phone,Tech 3
+TS-8280,Apr,Resolved,Mobile,West,Low,Billing Error,6.9,98.3,4.4,Web,Tech 10
+TS-8281,May,In Progress,Broadband,North,Medium,No Signal,8.2,100,3,App,Tech 17
+TS-8282,Jun,Open,Landline,South,High,Installation Delay,11.5,109.7,4.1,Retail,Tech 6
+TS-8283,Jul,Resolved,TV,East,Low,Slow Internet,10.799999999999999,103.4,2.7,Phone,Tech 13
+TS-8284,Aug,In Progress,Mobile,West,Medium,Service Outage,12.1,9.1,3.8,Web,Tech 2
+TS-8285,Sep,Open,Broadband,North,High,Dropped Calls,15.399999999999999,18.8,4.9,App,Tech 9
+TS-8286,Oct,Open,Landline,South,Low,Billing Error,14.7,12.5,3.5,Retail,Tech 16
+TS-8287,Nov,Resolved,TV,East,Medium,No Signal,16,14.2,4.6,Phone,Tech 5
+TS-8288,Dec,In Progress,Mobile,West,High,Installation Delay,19.3,23.9,3.2,Web,Tech 12
+TS-8289,Jan,Open,Broadband,North,Low,Slow Internet,18.599999999999998,17.6,4.3,App,Tech 1
+TS-8290,Feb,Resolved,Landline,South,Medium,Service Outage,19.9,19.3,2.9,Retail,Tech 8
+TS-8291,Mar,In Progress,TV,East,High,Dropped Calls,23.2,29,4,Phone,Tech 15
+TS-8292,Apr,Open,Mobile,West,Low,Billing Error,1.5,22.7,2.6,Web,Tech 4
+TS-8293,May,Resolved,Broadband,North,Medium,No Signal,2.8,24.4,3.7,App,Tech 11
+TS-8294,Jun,In Progress,Landline,South,High,Installation Delay,6.1,34.1,4.8,Retail,Tech 18
+TS-8295,Jul,Open,TV,East,Low,Slow Internet,5.4,27.8,3.4,Phone,Tech 7
+TS-8296,Aug,Resolved,Mobile,West,Medium,Service Outage,6.7,29.5,4.5,Web,Tech 14
+TS-8297,Sep,In Progress,Broadband,North,High,Dropped Calls,10,39.2,3.1,App,Tech 3
+TS-8298,Oct,Open,Landline,South,Low,Billing Error,9.299999999999999,32.9,4.2,Retail,Tech 10
+TS-8299,Nov,Resolved,TV,East,Medium,No Signal,10.6,34.6,2.8,Phone,Tech 17
+TS-8300,Dec,In Progress,Mobile,West,High,Installation Delay,13.899999999999999,44.3,3.9,Web,Tech 6
+TS-8301,Jan,Open,Broadband,North,Low,Slow Internet,13.2,38,2.5,App,Tech 13
+TS-8302,Feb,Resolved,Landline,South,Medium,Service Outage,14.5,39.7,3.6,Retail,Tech 2
+TS-8303,Mar,In Progress,TV,East,High,Dropped Calls,17.799999999999997,49.4,4.7,Phone,Tech 9
+TS-8304,Apr,Open,Mobile,West,Low,Billing Error,17.1,43.1,3.3,Web,Tech 16
+TS-8305,May,Open,Broadband,North,Medium,No Signal,18.4,44.8,4.4,App,Tech 5
+TS-8306,Jun,Resolved,Landline,South,High,Installation Delay,21.7,54.5,3,Retail,Tech 12
+TS-8307,Jul,In Progress,TV,East,Low,Slow Internet,21,48.2,4.1,Phone,Tech 1
+TS-8308,Aug,Open,Mobile,West,Medium,Service Outage,1.3,49.9,2.7,Web,Tech 8
+TS-8309,Sep,Resolved,Broadband,North,High,Dropped Calls,4.6,59.6,3.8,App,Tech 15
+TS-8310,Oct,In Progress,Landline,South,Low,Billing Error,3.9000000000000004,53.3,4.9,Retail,Tech 4
+TS-8311,Nov,Open,TV,East,Medium,No Signal,5.2,55,3.5,Phone,Tech 11
+TS-8312,Dec,Resolved,Mobile,West,High,Installation Delay,8.5,64.7,4.6,Web,Tech 18
+TS-8313,Jan,In Progress,Broadband,North,Low,Slow Internet,7.8,58.4,3.2,App,Tech 7
+TS-8314,Feb,Open,Landline,South,Medium,Service Outage,9.1,60.1,4.3,Retail,Tech 14
+TS-8315,Mar,Resolved,TV,East,High,Dropped Calls,12.399999999999999,69.8,2.9,Phone,Tech 3
+TS-8316,Apr,In Progress,Mobile,West,Low,Billing Error,11.7,63.5,4,Web,Tech 10
+TS-8317,May,Open,Broadband,North,Medium,No Signal,13,65.2,2.6,App,Tech 17
+TS-8318,Jun,Resolved,Landline,South,High,Installation Delay,16.299999999999997,74.9,3.7,Retail,Tech 6
+TS-8319,Jul,In Progress,TV,East,Low,Slow Internet,15.6,68.6,4.8,Phone,Tech 13
+TS-8320,Aug,Open,Mobile,West,Medium,Service Outage,16.9,70.3,3.4,Web,Tech 2
+TS-8321,Sep,Resolved,Broadband,North,High,Dropped Calls,20.2,80,4.5,App,Tech 9
+TS-8322,Oct,In Progress,Landline,South,Low,Billing Error,19.5,73.7,3.1,Retail,Tech 16
+TS-8323,Nov,Open,TV,East,Medium,No Signal,20.8,75.4,4.2,Phone,Tech 5
+TS-8324,Dec,Open,Mobile,West,High,Installation Delay,24.099999999999998,85.1,2.8,Web,Tech 12
+TS-8325,Jan,Resolved,Broadband,North,Low,Slow Internet,2.4,78.8,3.9,App,Tech 1
+TS-8326,Feb,In Progress,Landline,South,Medium,Service Outage,3.7,80.5,2.5,Retail,Tech 8
+TS-8327,Mar,Open,TV,East,High,Dropped Calls,7,90.2,3.6,Phone,Tech 15
+TS-8328,Apr,Resolved,Mobile,West,Low,Billing Error,6.3,83.9,4.7,Web,Tech 4
+TS-8329,May,In Progress,Broadband,North,Medium,No Signal,7.6000000000000005,85.6,3.3,App,Tech 11
+TS-8330,Jun,Open,Landline,South,High,Installation Delay,10.9,95.3,4.4,Retail,Tech 18
+TS-8331,Jul,Resolved,TV,East,Low,Slow Internet,10.2,89,3,Phone,Tech 7
+TS-8332,Aug,In Progress,Mobile,West,Medium,Service Outage,11.5,90.7,4.1,Web,Tech 14
+TS-8333,Sep,Open,Broadband,North,High,Dropped Calls,14.799999999999999,100.4,2.7,App,Tech 3
+TS-8334,Oct,Resolved,Landline,South,Low,Billing Error,14.1,94.1,3.8,Retail,Tech 10
+TS-8335,Nov,In Progress,TV,East,Medium,No Signal,15.399999999999999,95.8,4.9,Phone,Tech 17
+TS-8336,Dec,Open,Mobile,West,High,Installation Delay,18.7,105.5,3.5,Web,Tech 6
+TS-8337,Jan,Resolved,Broadband,North,Low,Slow Internet,18,99.2,4.6,App,Tech 13
+TS-8338,Feb,In Progress,Landline,South,Medium,Service Outage,19.3,100.9,3.2,Retail,Tech 2
+TS-8339,Mar,Open,TV,East,High,Dropped Calls,22.599999999999998,110.6,4.3,Phone,Tech 9
+TS-8340,Apr,Resolved,Mobile,West,Low,Billing Error,21.9,8.3,2.9,Web,Tech 16
+TS-8341,May,In Progress,Broadband,North,Medium,No Signal,2.2,10,4,App,Tech 5
+TS-8342,Jun,Open,Landline,South,High,Installation Delay,5.5,19.7,2.6,Retail,Tech 12
+TS-8343,Jul,Open,TV,East,Low,Slow Internet,4.8,13.4,3.7,Phone,Tech 1
+TS-8344,Aug,Resolved,Mobile,West,Medium,Service Outage,6.1000000000000005,15.1,4.8,Web,Tech 8
+TS-8345,Sep,In Progress,Broadband,North,High,Dropped Calls,9.4,24.8,3.4,App,Tech 15
+TS-8346,Oct,Open,Landline,South,Low,Billing Error,8.7,18.5,4.5,Retail,Tech 4
+TS-8347,Nov,Resolved,TV,East,Medium,No Signal,10,20.2,3.1,Phone,Tech 11
+TS-8348,Dec,In Progress,Mobile,West,High,Installation Delay,13.299999999999999,29.9,4.2,Web,Tech 18
+TS-8349,Jan,Open,Broadband,North,Low,Slow Internet,12.6,23.6,2.8,App,Tech 7
+TS-8350,Feb,Resolved,Landline,South,Medium,Service Outage,13.899999999999999,25.3,3.9,Retail,Tech 14
+TS-8351,Mar,In Progress,TV,East,High,Dropped Calls,17.2,35,2.5,Phone,Tech 3
+TS-8352,Apr,Open,Mobile,West,Low,Billing Error,16.5,28.7,3.6,Web,Tech 10
+TS-8353,May,Resolved,Broadband,North,Medium,No Signal,17.8,30.4,4.7,App,Tech 17
+TS-8354,Jun,In Progress,Landline,South,High,Installation Delay,21.099999999999998,40.1,3.3,Retail,Tech 6
+TS-8355,Jul,Open,TV,East,Low,Slow Internet,20.4,33.8,4.4,Phone,Tech 13
+TS-8356,Aug,Resolved,Mobile,West,Medium,Service Outage,21.7,35.5,3,Web,Tech 2
+TS-8357,Sep,In Progress,Broadband,North,High,Dropped Calls,4,45.2,4.1,App,Tech 9
+TS-8358,Oct,Open,Landline,South,Low,Billing Error,3.3,38.9,2.7,Retail,Tech 16
+TS-8359,Nov,Resolved,TV,East,Medium,No Signal,4.6,40.6,3.8,Phone,Tech 5
+TS-8360,Dec,In Progress,Mobile,West,High,Installation Delay,7.9,50.3,4.9,Web,Tech 12
+TS-8361,Jan,Open,Broadband,North,Low,Slow Internet,7.2,44,3.5,App,Tech 1
+TS-8362,Feb,Open,Landline,South,Medium,Service Outage,8.5,45.7,4.6,Retail,Tech 8
+TS-8363,Mar,Resolved,TV,East,High,Dropped Calls,11.799999999999999,55.4,3.2,Phone,Tech 15
+TS-8364,Apr,In Progress,Mobile,West,Low,Billing Error,11.1,49.1,4.3,Web,Tech 4
+TS-8365,May,Open,Broadband,North,Medium,No Signal,12.399999999999999,50.8,2.9,App,Tech 11
+TS-8366,Jun,Resolved,Landline,South,High,Installation Delay,15.7,60.5,4,Retail,Tech 18
+TS-8367,Jul,In Progress,TV,East,Low,Slow Internet,15,54.2,2.6,Phone,Tech 7
+TS-8368,Aug,Open,Mobile,West,Medium,Service Outage,16.3,55.9,3.7,Web,Tech 14
+TS-8369,Sep,Resolved,Broadband,North,High,Dropped Calls,19.599999999999998,65.6,4.8,App,Tech 3
+TS-8370,Oct,In Progress,Landline,South,Low,Billing Error,18.9,59.3,3.4,Retail,Tech 10
+TS-8371,Nov,Open,TV,East,Medium,No Signal,20.2,61,4.5,Phone,Tech 17
+TS-8372,Dec,Resolved,Mobile,West,High,Installation Delay,23.5,70.7,3.1,Web,Tech 6
+TS-8373,Jan,In Progress,Broadband,North,Low,Slow Internet,1.7999999999999998,64.4,4.2,App,Tech 13
+TS-8374,Feb,Open,Landline,South,Medium,Service Outage,3.0999999999999996,66.1,2.8,Retail,Tech 2
+TS-8375,Mar,Resolved,TV,East,High,Dropped Calls,6.4,75.8,3.9,Phone,Tech 9
+TS-8376,Apr,In Progress,Mobile,West,Low,Billing Error,5.7,69.5,2.5,Web,Tech 16
+TS-8377,May,Open,Broadband,North,Medium,No Signal,7,71.2,3.6,App,Tech 5
+TS-8378,Jun,Resolved,Landline,South,High,Installation Delay,10.299999999999999,80.9,4.7,Retail,Tech 12
+TS-8379,Jul,In Progress,TV,East,Low,Slow Internet,9.6,74.6,3.3,Phone,Tech 1
+TS-8380,Aug,Open,Mobile,West,Medium,Service Outage,10.899999999999999,76.3,4.4,Web,Tech 8
+TS-8381,Sep,Open,Broadband,North,High,Dropped Calls,14.2,86,3,App,Tech 15
+TS-8382,Oct,Resolved,Landline,South,Low,Billing Error,13.5,79.7,4.1,Retail,Tech 4
+TS-8383,Nov,In Progress,TV,East,Medium,No Signal,14.799999999999999,81.4,2.7,Phone,Tech 11
+TS-8384,Dec,Open,Mobile,West,High,Installation Delay,18.1,91.1,3.8,Web,Tech 18
+TS-8385,Jan,Resolved,Broadband,North,Low,Slow Internet,17.4,84.8,4.9,App,Tech 7
+TS-8386,Feb,In Progress,Landline,South,Medium,Service Outage,18.7,86.5,3.5,Retail,Tech 14
+TS-8387,Mar,Open,TV,East,High,Dropped Calls,22,96.2,4.6,Phone,Tech 3
+TS-8388,Apr,Resolved,Mobile,West,Low,Billing Error,21.3,89.9,3.2,Web,Tech 10
+TS-8389,May,In Progress,Broadband,North,Medium,No Signal,1.6,91.6,4.3,App,Tech 17
+TS-8390,Jun,Open,Landline,South,High,Installation Delay,4.9,101.3,2.9,Retail,Tech 6
+TS-8391,Jul,Resolved,TV,East,Low,Slow Internet,4.2,95,4,Phone,Tech 13
+TS-8392,Aug,In Progress,Mobile,West,Medium,Service Outage,5.5,96.7,2.6,Web,Tech 2
+TS-8393,Sep,Open,Broadband,North,High,Dropped Calls,8.8,106.4,3.7,App,Tech 9
+TS-8394,Oct,Resolved,Landline,South,Low,Billing Error,8.1,100.1,4.8,Retail,Tech 16
+TS-8395,Nov,In Progress,TV,East,Medium,No Signal,9.399999999999999,101.8,3.4,Phone,Tech 5
+TS-8396,Dec,Open,Mobile,West,High,Installation Delay,12.7,111.5,4.5,Web,Tech 12
+TS-8397,Jan,Resolved,Broadband,North,Low,Slow Internet,12,9.2,3.1,App,Tech 1
+TS-8398,Feb,In Progress,Landline,South,Medium,Service Outage,13.299999999999999,10.9,4.2,Retail,Tech 8
+TS-8399,Mar,Open,TV,East,High,Dropped Calls,16.6,20.6,2.8,Phone,Tech 15
+TS-8400,Apr,Open,Mobile,West,Low,Billing Error,15.899999999999999,14.3,3.9,Web,Tech 4
+TS-8401,May,Resolved,Broadband,North,Medium,No Signal,17.2,16,2.5,App,Tech 11
+TS-8402,Jun,In Progress,Landline,South,High,Installation Delay,20.5,25.7,3.6,Retail,Tech 18
+TS-8403,Jul,Open,TV,East,Low,Slow Internet,19.8,19.4,4.7,Phone,Tech 7
+TS-8404,Aug,Resolved,Mobile,West,Medium,Service Outage,21.099999999999998,21.1,3.3,Web,Tech 14
+TS-8405,Sep,In Progress,Broadband,North,High,Dropped Calls,3.4,30.8,4.4,App,Tech 3
+TS-8406,Oct,Open,Landline,South,Low,Billing Error,2.7,24.5,3,Retail,Tech 10
+TS-8407,Nov,Resolved,TV,East,Medium,No Signal,4,26.2,4.1,Phone,Tech 17
+TS-8408,Dec,In Progress,Mobile,West,High,Installation Delay,7.3,35.9,2.7,Web,Tech 6
+TS-8409,Jan,Open,Broadband,North,Low,Slow Internet,6.6000000000000005,29.6,3.8,App,Tech 13
+TS-8410,Feb,Resolved,Landline,South,Medium,Service Outage,7.9,31.3,4.9,Retail,Tech 2
+TS-8411,Mar,In Progress,TV,East,High,Dropped Calls,11.2,41,3.5,Phone,Tech 9
+TS-8412,Apr,Open,Mobile,West,Low,Billing Error,10.5,34.7,4.6,Web,Tech 16
+TS-8413,May,Resolved,Broadband,North,Medium,No Signal,11.799999999999999,36.4,3.2,App,Tech 5
+TS-8414,Jun,In Progress,Landline,South,High,Installation Delay,15.1,46.1,4.3,Retail,Tech 12
+TS-8415,Jul,Open,TV,East,Low,Slow Internet,14.399999999999999,39.8,2.9,Phone,Tech 1
+TS-8416,Aug,Resolved,Mobile,West,Medium,Service Outage,15.7,41.5,4,Web,Tech 8
+TS-8417,Sep,In Progress,Broadband,North,High,Dropped Calls,19,51.2,2.6,App,Tech 15
+TS-8418,Oct,Open,Landline,South,Low,Billing Error,18.3,44.9,3.7,Retail,Tech 4
+TS-8419,Nov,Open,TV,East,Medium,No Signal,19.599999999999998,46.6,4.8,Phone,Tech 11
+TS-8420,Dec,Resolved,Mobile,West,High,Installation Delay,22.9,56.3,3.4,Web,Tech 18
+TS-8421,Jan,In Progress,Broadband,North,Low,Slow Internet,1.2,50,4.5,App,Tech 7
+TS-8422,Feb,Open,Landline,South,Medium,Service Outage,2.5,51.7,3.1,Retail,Tech 14
+TS-8423,Mar,Resolved,TV,East,High,Dropped Calls,5.8,61.4,4.2,Phone,Tech 3
+TS-8424,Apr,In Progress,Mobile,West,Low,Billing Error,5.1,55.1,2.8,Web,Tech 10
+TS-8425,May,Open,Broadband,North,Medium,No Signal,6.4,56.8,3.9,App,Tech 17
+TS-8426,Jun,Resolved,Landline,South,High,Installation Delay,9.7,66.5,2.5,Retail,Tech 6
+TS-8427,Jul,In Progress,TV,East,Low,Slow Internet,9,60.2,3.6,Phone,Tech 13
+TS-8428,Aug,Open,Mobile,West,Medium,Service Outage,10.299999999999999,61.9,4.7,Web,Tech 2
+TS-8429,Sep,Resolved,Broadband,North,High,Dropped Calls,13.6,71.6,3.3,App,Tech 9
+TS-8430,Oct,In Progress,Landline,South,Low,Billing Error,12.899999999999999,65.3,4.4,Retail,Tech 16
+TS-8431,Nov,Open,TV,East,Medium,No Signal,14.2,67,3,Phone,Tech 5
+TS-8432,Dec,Resolved,Mobile,West,High,Installation Delay,17.5,76.7,4.1,Web,Tech 12
+TS-8433,Jan,In Progress,Broadband,North,Low,Slow Internet,16.8,70.4,2.7,App,Tech 1
+TS-8434,Feb,Open,Landline,South,Medium,Service Outage,18.099999999999998,72.1,3.8,Retail,Tech 8
+TS-8435,Mar,Resolved,TV,East,High,Dropped Calls,21.4,81.8,4.9,Phone,Tech 15
+TS-8436,Apr,In Progress,Mobile,West,Low,Billing Error,20.7,75.5,3.5,Web,Tech 4
+TS-8437,May,Open,Broadband,North,Medium,No Signal,22,77.2,4.6,App,Tech 11
+TS-8438,Jun,Open,Landline,South,High,Installation Delay,4.3,86.9,3.2,Retail,Tech 18
+TS-8439,Jul,Resolved,TV,East,Low,Slow Internet,3.5999999999999996,80.6,4.3,Phone,Tech 7
+TS-8440,Aug,In Progress,Mobile,West,Medium,Service Outage,4.9,82.3,2.9,Web,Tech 14
+TS-8441,Sep,Open,Broadband,North,High,Dropped Calls,8.2,92,4,App,Tech 3
+TS-8442,Oct,Resolved,Landline,South,Low,Billing Error,7.5,85.7,2.6,Retail,Tech 10
+TS-8443,Nov,In Progress,TV,East,Medium,No Signal,8.799999999999999,87.4,3.7,Phone,Tech 17
+TS-8444,Dec,Open,Mobile,West,High,Installation Delay,12.1,97.1,4.8,Web,Tech 6
+TS-8445,Jan,Resolved,Broadband,North,Low,Slow Internet,11.399999999999999,90.8,3.4,App,Tech 13
+TS-8446,Feb,In Progress,Landline,South,Medium,Service Outage,12.7,92.5,4.5,Retail,Tech 2
+TS-8447,Mar,Open,TV,East,High,Dropped Calls,16,102.2,3.1,Phone,Tech 9
+TS-8448,Apr,Resolved,Mobile,West,Low,Billing Error,15.299999999999999,95.9,4.2,Web,Tech 16
+TS-8449,May,In Progress,Broadband,North,Medium,No Signal,16.6,97.6,2.8,App,Tech 5
+TS-8450,Jun,Open,Landline,South,High,Installation Delay,19.9,107.3,3.9,Retail,Tech 12
+TS-8451,Jul,Resolved,TV,East,Low,Slow Internet,19.2,101,2.5,Phone,Tech 1
+TS-8452,Aug,In Progress,Mobile,West,Medium,Service Outage,20.5,102.7,3.6,Web,Tech 8
+TS-8453,Sep,Open,Broadband,North,High,Dropped Calls,23.8,16.4,4.7,App,Tech 15
+TS-8454,Oct,Resolved,Landline,South,Low,Billing Error,2.1,10.1,3.3,Retail,Tech 4
+TS-8455,Nov,In Progress,TV,East,Medium,No Signal,3.4000000000000004,11.8,4.4,Phone,Tech 11
+TS-8456,Dec,Open,Mobile,West,High,Installation Delay,6.7,21.5,3,Web,Tech 18
+TS-8457,Jan,Open,Broadband,North,Low,Slow Internet,6,15.2,4.1,App,Tech 7
+TS-8458,Feb,Resolved,Landline,South,Medium,Service Outage,7.3,16.9,2.7,Retail,Tech 14
+TS-8459,Mar,In Progress,TV,East,High,Dropped Calls,10.6,26.6,3.8,Phone,Tech 3
+TS-8460,Apr,Open,Mobile,West,Low,Billing Error,9.899999999999999,20.3,4.9,Web,Tech 10
+TS-8461,May,Resolved,Broadband,North,Medium,No Signal,11.2,22,3.5,App,Tech 17
+TS-8462,Jun,In Progress,Landline,South,High,Installation Delay,14.5,31.7,4.6,Retail,Tech 6
+TS-8463,Jul,Open,TV,East,Low,Slow Internet,13.799999999999999,25.4,3.2,Phone,Tech 13
+TS-8464,Aug,Resolved,Mobile,West,Medium,Service Outage,15.1,27.1,4.3,Web,Tech 2
+TS-8465,Sep,In Progress,Broadband,North,High,Dropped Calls,18.4,36.8,2.9,App,Tech 9
+TS-8466,Oct,Open,Landline,South,Low,Billing Error,17.7,30.5,4,Retail,Tech 16
+TS-8467,Nov,Resolved,TV,East,Medium,No Signal,19,32.2,2.6,Phone,Tech 5
+TS-8468,Dec,In Progress,Mobile,West,High,Installation Delay,22.3,41.9,3.7,Web,Tech 12
+TS-8469,Jan,Open,Broadband,North,Low,Slow Internet,21.599999999999998,35.6,4.8,App,Tech 1
+TS-8470,Feb,Resolved,Landline,South,Medium,Service Outage,1.9,37.3,3.4,Retail,Tech 8
+TS-8471,Mar,In Progress,TV,East,High,Dropped Calls,5.2,47,4.5,Phone,Tech 15
+TS-8472,Apr,Open,Mobile,West,Low,Billing Error,4.5,40.7,3.1,Web,Tech 4
+TS-8473,May,Resolved,Broadband,North,Medium,No Signal,5.8,42.4,4.2,App,Tech 11
+TS-8474,Jun,In Progress,Landline,South,High,Installation Delay,9.100000000000001,52.1,2.8,Retail,Tech 18
+TS-8475,Jul,Open,TV,East,Low,Slow Internet,8.4,45.8,3.9,Phone,Tech 7
+TS-8476,Aug,Open,Mobile,West,Medium,Service Outage,9.7,47.5,2.5,Web,Tech 14
+TS-8477,Sep,Resolved,Broadband,North,High,Dropped Calls,13,57.2,3.6,App,Tech 3
+TS-8478,Oct,In Progress,Landline,South,Low,Billing Error,12.299999999999999,50.9,4.7,Retail,Tech 10
+TS-8479,Nov,Open,TV,East,Medium,No Signal,13.6,52.6,3.3,Phone,Tech 17
+TS-8480,Dec,Resolved,Mobile,West,High,Installation Delay,16.9,62.3,4.4,Web,Tech 6
+TS-8481,Jan,In Progress,Broadband,North,Low,Slow Internet,16.2,56,3,App,Tech 13
+TS-8482,Feb,Open,Landline,South,Medium,Service Outage,17.5,57.7,4.1,Retail,Tech 2
+TS-8483,Mar,Resolved,TV,East,High,Dropped Calls,20.8,67.4,2.7,Phone,Tech 9
+TS-8484,Apr,In Progress,Mobile,West,Low,Billing Error,20.099999999999998,61.1,3.8,Web,Tech 16
+TS-8485,May,Open,Broadband,North,Medium,No Signal,21.4,62.8,4.9,App,Tech 5
+TS-8486,Jun,Resolved,Landline,South,High,Installation Delay,3.7,72.5,3.5,Retail,Tech 12
+TS-8487,Jul,In Progress,TV,East,Low,Slow Internet,3,66.2,4.6,Phone,Tech 1
+TS-8488,Aug,Open,Mobile,West,Medium,Service Outage,4.3,67.9,3.2,Web,Tech 8
+TS-8489,Sep,Resolved,Broadband,North,High,Dropped Calls,7.6000000000000005,77.6,4.3,App,Tech 15
+TS-8490,Oct,In Progress,Landline,South,Low,Billing Error,6.9,71.3,2.9,Retail,Tech 4
+TS-8491,Nov,Open,TV,East,Medium,No Signal,8.2,73,4,Phone,Tech 11
+TS-8492,Dec,Resolved,Mobile,West,High,Installation Delay,11.5,82.7,2.6,Web,Tech 18
+TS-8493,Jan,In Progress,Broadband,North,Low,Slow Internet,10.799999999999999,76.4,3.7,App,Tech 7
+TS-8494,Feb,Open,Landline,South,Medium,Service Outage,12.1,78.1,4.8,Retail,Tech 14
+TS-8495,Mar,Open,TV,East,High,Dropped Calls,15.399999999999999,87.8,3.4,Phone,Tech 3
+TS-8496,Apr,Resolved,Mobile,West,Low,Billing Error,14.7,81.5,4.5,Web,Tech 10
+TS-8497,May,In Progress,Broadband,North,Medium,No Signal,16,83.2,3.1,App,Tech 17
+TS-8498,Jun,Open,Landline,South,High,Installation Delay,19.3,92.9,4.2,Retail,Tech 6
+TS-8499,Jul,Resolved,TV,East,Low,Slow Internet,18.599999999999998,86.6,2.8,Phone,Tech 13
+TS-8500,Aug,In Progress,Mobile,West,Medium,Service Outage,19.9,88.3,3.9,Web,Tech 2
